@@ -1,3 +1,5 @@
+<br>
+
 <p align="center">
     <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img width="300" src="/img/white/logo.svg" alt="SurrealDB Logo">
