@@ -110,4 +110,4 @@ If you want to contribute to this list, then please read the [contributing guide
 *This category is currently empty*
 
 ## Videos
-*This category is currently empty*
+[SurrealDB in 100 seconds - Fireship](https://www.youtube.com/watch?v=C7WFwgDRStM)
