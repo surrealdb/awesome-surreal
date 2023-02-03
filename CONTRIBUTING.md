@@ -6,7 +6,7 @@ Our goal is to have mostly projects that are useful to and usable by users.
 
 ## How?
 
-The easiest way is to go to https://github.com/surrealdb/surreal/edit/main/README.md. Make the changes to the file and follow the instructions to create a pull request.
+The easiest way is to go to https://github.com/surrealdb/awesome-surreal/edit/main/README.md. Make the changes to the file and follow the instructions to create a pull request.
 
 When adding a new entry to the `README.md` file, please ensure the following:
 
