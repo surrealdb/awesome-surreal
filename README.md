@@ -64,6 +64,8 @@
 
 A curated list of [SurrealDB](surrealdb/surrealdb) resources, tools, utilities, and applications.
 
+If you want to contribute to this list, then please read the [contributing guidelines](https://github.com/surrealdb/awesome-surreal/blob/main/CONTRIBUTING.md).
+
 ## Table of contents
 
 - [Applications](#applications)
