@@ -92,8 +92,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) — A SurrealDB driver for WebAssembly
 
 ## Development tools
-- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB
+- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground
 
 ## Deployment tools
 *This category is currently empty*
@@ -108,8 +108,12 @@ If you want to contribute to this list, then please read the [contributing guide
 - [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM
 
 ## Tutorials
-- [SurrealDB Quick Tutorial](https://www.youtube.com/watch?v=VoRoeL1tal4) - Jeremy Chone
+- [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau
 
 ## Videos
+- [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship
+- [Getting started with SurrealDB!! Future of cloud databases (maybe)?](https://www.youtube.com/watch?v=D41jb4DDIdA) - Chris Hay
+- [Rust Powered Database SurrealDB (It's Pretty Ambitious)](https://www.youtube.com/watch?v=DPQbuW9dQ7w) - Code to the Moon
 - [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship
+- [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos
