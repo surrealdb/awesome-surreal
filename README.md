@@ -93,7 +93,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Development tools
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground
-- [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer)
+- [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB
 
 ## Deployment tools
 *This category is currently empty*
