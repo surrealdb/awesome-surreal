@@ -92,7 +92,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) — A SurrealDB driver for WebAssembly
 
 ## Development tools
-*This category is currently empty*
+- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground
+- [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB
 
 ## Deployment tools
 *This category is currently empty*
@@ -104,7 +105,7 @@ If you want to contribute to this list, then please read the [contributing guide
 *This category is currently empty*
 
 ## Libraries
-*This category is currently empty*
+- [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM
 
 ## Tutorials
 *This category is currently empty*
