@@ -108,8 +108,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM
 
 ## Tutorials
-- [SurrealDB Quick Tutorial - Jeremy Chone](https://www.youtube.com/watch?v=VoRoeL1tal4)
-- [Hosting Surreal DB in Rust in Less Than 3 Minutes - Gui Bibeau](https://www.youtube.com/watch?v=VoRoeL1tal4)
+- [SurrealDB Quick Tutorial](https://www.youtube.com/watch?v=VoRoeL1tal4) - Jeremy Chone
+- [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau
 
 ## Videos
-- [SurrealDB in 100 seconds - Fireship](https://www.youtube.com/watch?v=C7WFwgDRStM)
+- [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship
