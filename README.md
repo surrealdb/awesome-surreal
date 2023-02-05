@@ -92,6 +92,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - A SurrealDB driver for WebAssembly.
 
 ## Development tools
+- [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB.
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground.
 
