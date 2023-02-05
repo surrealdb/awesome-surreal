@@ -106,6 +106,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Libraries
 - [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM
+- [PySurrealDB](https://github.com/aurelion314/pysurrealdb) — SurrealDB driver and query builder for Python.
 
 ## Tutorials
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone
