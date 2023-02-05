@@ -94,7 +94,7 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Development tools
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground
-- [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications in Go.
+- [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 
 ## Deployment tools
 *This category is currently empty*
