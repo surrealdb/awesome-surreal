@@ -78,22 +78,22 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Videos](#videos)
 
 ## Applications
-- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Client libraries
-- [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - A SurrealDB driver for C
-- [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - A SurrealDB driver for Golang
-- [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - A SurrealDB driver for Java
-- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - A SurrealDB driver for JavaScript
-- [surrealdb.net](https://github.com/surrealdb/surrealdb.net) - A SurrealDB driver for .NET
-- [surrealdb.node](https://github.com/surrealdb/surrealdb.node) - A SurrealDB driver for Node.js
-- [surrealdb.php](https://github.com/surrealdb/surrealdb.php) - A SurrealDB driver for PHP
-- [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - A SurrealDB driver for Python
-- [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - A SurrealDB driver for WebAssembly
+- [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - A SurrealDB driver for C.
+- [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - A SurrealDB driver for Golang.
+- [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - A SurrealDB driver for Java.
+- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - A SurrealDB driver for JavaScript.
+- [surrealdb.net](https://github.com/surrealdb/surrealdb.net) - A SurrealDB driver for .NET.
+- [surrealdb.node](https://github.com/surrealdb/surrealdb.node) - A SurrealDB driver for Node.js.
+- [surrealdb.php](https://github.com/surrealdb/surrealdb.php) - A SurrealDB driver for PHP.
+- [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - A SurrealDB driver for Python.
+- [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - A SurrealDB driver for WebAssembly.
 
 ## Development tools
-- [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB
-- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground
+- [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB.
+- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground.
 
 ## Deployment tools
 *This category is currently empty*
@@ -105,15 +105,15 @@ If you want to contribute to this list, then please read the [contributing guide
 *This category is currently empty*
 
 ## Libraries
-- [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM
+- [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM.
 
 ## Tutorials
-- [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone
-- [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau
+- [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
+- [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 
 ## Videos
-- [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship
-- [Getting started with SurrealDB! Future of cloud databases (maybe)?](https://www.youtube.com/watch?v=D41jb4DDIdA) - Chris Hay
-- [Rust Powered Database SurrealDB (It's Pretty Ambitious)](https://www.youtube.com/watch?v=DPQbuW9dQ7w) - Code to the Moon
-- [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship
-- [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos
+- [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship.
+- [Getting started with SurrealDB! Future of cloud databases (maybe)?](https://www.youtube.com/watch?v=D41jb4DDIdA) - Chris Hay.
+- [Rust Powered Database SurrealDB (It's Pretty Ambitious)](https://www.youtube.com/watch?v=DPQbuW9dQ7w) - Code to the Moon.
+- [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship.
+- [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
