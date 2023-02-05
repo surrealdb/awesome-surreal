@@ -15,5 +15,5 @@ When adding a new entry to the `README.md` file, please ensure the following:
 3. Please ensure that your entry uses the following markdown template:
 
 	```md
-	- [SurrealDB](https://github.com/surrealdb/surrealdb) — A scalable, distributed, collaborative, document-graph database, for the realtime web
+	- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 	```
