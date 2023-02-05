@@ -106,6 +106,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Libraries
 - [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM.
+- [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) — Kysely (type-safe sql query builder) dialects, plugins and other goodies for SurrealDB.
 
 ## Tutorials
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
