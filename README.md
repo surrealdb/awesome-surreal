@@ -99,7 +99,7 @@ If you want to contribute to this list, then please read the [contributing guide
 *This category is currently empty*
 
 ## Docker images
-*This category is currently empty*
+[surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - SurrealDB official Docker image
 
 ## Integrations
 *This category is currently empty*
