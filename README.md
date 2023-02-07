@@ -96,7 +96,7 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Development tools
 - [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB.
-- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - Lightning fast graphical SurrealDB query playground.
+- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - A powerful graphical SurrealDB query playground and database explorer.
 
 ## Deployment tools
 *This category is currently empty*
@@ -108,7 +108,7 @@ If you want to contribute to this list, then please read the [contributing guide
 *This category is currently empty*
 
 ## Libraries
-- [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM.
+- [Cirql](https://github.com/StarlaneStudios/cirql) - Flexible SurrealDB TypeScript ORM leveraging the power of Zod schemas.
 - [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) — Kysely (type-safe sql query builder) dialects, plugins and other goodies for SurrealDB.
 - [PySurrealDB](https://github.com/aurelion314/pysurrealdb) — SurrealDB driver and query builder for Python.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py
