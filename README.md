@@ -66,13 +66,15 @@ A curated list of [SurrealDB](surrealdb/surrealdb) resources, tools, utilities, 
 
 If you want to contribute to this list, then please read the [contributing guidelines](https://github.com/surrealdb/awesome-surreal/blob/main/CONTRIBUTING.md).
 
-## Table of Contents
+## Contents
 
+<!-- no toc -->
 - [Applications](#applications)
 - [Client libraries](#client-libraries)
 - [Development tools](#development-tools)
 - [Deployment tools](#deployment-tools)
 - [Docker images](#docker-images)
+- [Integrations](#integrations)
 - [Libraries](#libraries)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
