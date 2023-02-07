@@ -109,8 +109,9 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Libraries
 - [CirQL](https://github.com/StarlaneStudios/cirql) - SurrealDB ORM.
-- [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) - Kysely (type-safe sql query builder) dialects, plugins and other goodies for SurrealDB.
-- [PySurrealDB](https://github.com/aurelion314/pysurrealdb) - SurrealDB driver and query builder for Python.
+- [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) — Kysely (type-safe sql query builder) dialects, plugins and other goodies for SurrealDB.
+- [PySurrealDB](https://github.com/aurelion314/pysurrealdb) — SurrealDB driver and query builder for Python.
+- [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py
 
 ## Tutorials
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
