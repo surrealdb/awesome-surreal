@@ -126,3 +126,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Rust Powered Database SurrealDB (It's Pretty Ambitious)](https://www.youtube.com/watch?v=DPQbuW9dQ7w) - Code to the Moon.
 - [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship.
 - [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
+
+## Projects using SurrealDB
+- [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app
+- [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project!
+- [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system
