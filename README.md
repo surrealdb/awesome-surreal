@@ -83,6 +83,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Client libraries
+- [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper library for surrealdb.js that holds queries until connection is established.
+- [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP api. Can also be used outside of Cloudflare.
 - [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - A SurrealDB driver for C.
 - [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - A SurrealDB driver for Golang.
 - [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - A SurrealDB driver for Java.
@@ -114,8 +116,9 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
 
 ## Tutorials
-- [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
+- [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
+- [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
 
 ## Videos
 - [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship.
@@ -123,3 +126,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Rust Powered Database SurrealDB (It's Pretty Ambitious)](https://www.youtube.com/watch?v=DPQbuW9dQ7w) - Code to the Moon.
 - [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship.
 - [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
+
+## Projects using SurrealDB
+- [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app
+- [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project!
+- [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system
