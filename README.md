@@ -84,8 +84,8 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Client libraries
 - [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper library for surrealdb.js that holds queries until connection is established.
-- [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - A SurrealDB driver for C.
 - [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP api. Can also be used outside of Cloudflare.
+- [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - A SurrealDB driver for C.
 - [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - A SurrealDB driver for Golang.
 - [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - A SurrealDB driver for Java.
 - [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - A SurrealDB driver for JavaScript.
