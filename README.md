@@ -129,5 +129,5 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Projects
 - [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
-- [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project!
+- [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
