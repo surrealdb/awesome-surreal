@@ -112,8 +112,11 @@ If you want to contribute to this list, then please read the [contributing guide
 - [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) - Kysely (type-safe sql query builder) dialects, plugins and other goodies for SurrealDB.
 - [PySurrealDB](https://github.com/aurelion314/pysurrealdb) - SurrealDB driver and query builder for Python.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
+- [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper library for surrealdb.js that holds queries until connection is established.
+- [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP api. Can also be used outside of Cloudflare.
 
 ## Tutorials
+- [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 
