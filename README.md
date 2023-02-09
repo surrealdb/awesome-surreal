@@ -78,6 +78,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Libraries](#libraries)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+- [Projects](#projects)
 
 ## Applications
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
