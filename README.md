@@ -83,7 +83,9 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Client libraries
+- [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper library for surrealdb.js that holds queries until connection is established.
 - [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - A SurrealDB driver for C.
+- [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP api. Can also be used outside of Cloudflare.
 - [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - A SurrealDB driver for Golang.
 - [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - A SurrealDB driver for Java.
 - [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - A SurrealDB driver for JavaScript.
@@ -112,13 +114,11 @@ If you want to contribute to this list, then please read the [contributing guide
 - [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) - Kysely (type-safe sql query builder) dialects, plugins and other goodies for SurrealDB.
 - [PySurrealDB](https://github.com/aurelion314/pysurrealdb) - SurrealDB driver and query builder for Python.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
-- [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper library for surrealdb.js that holds queries until connection is established.
-- [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP api. Can also be used outside of Cloudflare.
 
 ## Tutorials
+- [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 - [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
-- [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 
 ## Videos
 - [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship.
