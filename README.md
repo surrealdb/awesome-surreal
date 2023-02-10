@@ -130,7 +130,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
 
 ## Projects
-- [gofer Engine](https://github.com/amaster507/gofer) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.Js servers that provides SurrealDB as a persistance layer option.
+- [gofer Engine](https://github.com/amaster507/gofer) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
 - [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
