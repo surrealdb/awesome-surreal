@@ -84,7 +84,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Projects](#projects)
 
 ## Applications
-- [<a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a>](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
+- [SurrealDB](https://github.com/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Client libraries
 - [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper library for surrealdb.js that holds queries until connection is established.
