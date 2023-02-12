@@ -84,20 +84,20 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Projects](#projects)
 
 ## Applications
-- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
+- [<a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a>](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Client libraries
 - [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper library for surrealdb.js that holds queries until connection is established.
 - [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP api. Can also be used outside of Cloudflare.
-- [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - A SurrealDB driver for C.
-- [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - A SurrealDB driver for Golang.
-- [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - A SurrealDB driver for Java.
-- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - A SurrealDB driver for JavaScript.
-- [surrealdb.net](https://github.com/surrealdb/surrealdb.net) - A SurrealDB driver for .NET.
-- [surrealdb.node](https://github.com/surrealdb/surrealdb.node) - A SurrealDB driver for Node.js.
-- [surrealdb.php](https://github.com/surrealdb/surrealdb.php) - A SurrealDB driver for PHP.
-- [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - A SurrealDB driver for Python.
-- [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - A SurrealDB driver for WebAssembly.
+- [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for C.
+- [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Golang.
+- [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Java.
+- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for JavaScript.
+- [surrealdb.net](https://github.com/surrealdb/surrealdb.net) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for .NET.
+- [surrealdb.node](https://github.com/surrealdb/surrealdb.node) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Node.js.
+- [surrealdb.php](https://github.com/surrealdb/surrealdb.php) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for PHP.
+- [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
+- [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for WebAssembly.
 
 ## Management interfaces
 - [SurrealDB Admin](https://github.com/sachinbhutani/surrealdb-admin) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
@@ -111,7 +111,7 @@ If you want to contribute to this list, then please read the [contributing guide
 *This category is currently empty*
 
 ## Docker images
-[surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - SurrealDB official Docker image.
+[surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Docker image.
 
 ## Integrations
 *This category is currently empty*
