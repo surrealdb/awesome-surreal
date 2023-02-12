@@ -1,4 +1,5 @@
 <!--lint disable awesome-git-repo-age-->
+
 <br>
 
 <p align="center">
@@ -72,6 +73,7 @@ If you want to contribute to this list, then please read the [contributing guide
 <!-- no toc -->
 - [Applications](#applications)
 - [Client libraries](#client-libraries)
+- [Management interfaces](#management-interfaces)
 - [Development tools](#development-tools)
 - [Deployment tools](#deployment-tools)
 - [Docker images](#docker-images)
@@ -97,11 +99,13 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - A SurrealDB driver for Python.
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - A SurrealDB driver for WebAssembly.
 
-## Development tools
-- [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
+## Management interfaces
+- [SurrealDB Admin](https://github.com/sachinbhutani/surrealdb-admin) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB.
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - A powerful graphical SurrealDB query playground and database explorer.
-- [SurrealDB-Admin](https://surrealdb-admin.vercel.app/) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
+
+## Development tools
+- [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 
 ## Deployment tools
 *This category is currently empty*
