@@ -101,6 +101,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB.
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - A powerful graphical SurrealDB query playground and database explorer.
+- [SurrealDB-Admin](https://surrealdb-admin.vercel.app/) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
 
 ## Deployment tools
 *This category is currently empty*
