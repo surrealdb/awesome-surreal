@@ -110,7 +110,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 
 ## Deployment tools
-*This category is currently empty*
+- [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
 
 ## Docker images
 [surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Docker image.
