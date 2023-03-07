@@ -105,6 +105,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB Admin](https://github.com/sachinbhutani/surrealdb-admin) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB.
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - A powerful graphical SurrealDB query playground and database explorer.
+- [SurrealReact](https://github.com/rvdende/surrealreact) - SurrealDB explorer UI written in react.
 
 ## Development tools
 - [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
