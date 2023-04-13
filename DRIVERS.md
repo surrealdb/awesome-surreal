@@ -41,6 +41,7 @@ These would also be maintained by the community.
 The reason for this is that we would like to have a uniform, long-term approach.
 
 ### We need ORM support
+
 Fully agree!
 We don’t currently do that in the drivers and aren’t likely to do that in the drivers projects themselves.
 We're excited to discover what the community creates.
@@ -48,12 +49,13 @@ We encourage both newcomers and existing members to explore various projects tha
 To add more projects to the list, simply open a PR!
 
 ### Where is language X?
-We don’t know all the languages and we don’t have a driver team at the moment.
-Long term we want a shared binary with a stubbed API for convenient access in any language.
-If you would like to write your own driver for a particular language you have in mind, this is always massively appreciated!
-We list such projects in awesome-surreal.
+
+We are currently focusing on building the core features of SurrealDB.
+In the meantime, we warmly welcome and wholeheartedly support any contributions you would like to make in developing a driver for a specific language.
+Your efforts will be greatly valued and recognized, as we showcase these projects on our awesome-surreal platform.
 
 ### What about JDBC drivers and language-specific interface conventions?
+
 We aren’t following that immediately, but we see the future where implementations such as JDBC specification would use the java-driver under the hood and be a wrapping.
 If you would like to write such an implementation for a language standard then that would be very exciting and people in the community would certainly use this.
 
