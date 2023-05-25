@@ -79,6 +79,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Docker images](#docker-images)
 - [Integrations](#integrations)
 - [Libraries](#libraries)
+- [GitHub Actions](#github-actions)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
@@ -127,6 +128,10 @@ If you want to contribute to this list, then please read the [contributing guide
 - [ra-surrealdb](https://github.com/djedi23/ra-surrealdb) - A data provider and an auth provider for [react admin](https://marmelab.com/react-admin/) to integrate with SurrealDB.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
+
+## GitHub Actions
+- [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
+- [Use SurrealDB in GitHub Actions](https://github.com/marketplace/actions/use-surrealdb-in-github-actions) - GitHub Action for using SurrealDB in your tests.
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
