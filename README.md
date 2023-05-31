@@ -134,7 +134,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
 - [Getting started with SurrealDB](https://surrealdb.com/blog/getting-started-with-surrealdb) - By SurrealDB team.
 - [How to Use SurrealDb with the Fresh Framework and Deno](https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/) - By Rajdeep Singh, FreeCodeCamp.
-- [Improve database management with SurrealDB](https://blog.logrocket.com/improve-database-management-surrealdb/) - By Alexander Nnakwue, LogRocket
+- [Improve database management with SurrealDB](https://blog.logrocket.com/improve-database-management-surrealdb/) - By Alexander Nnakwue, LogRocket.
 
 ## Videos
 - [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship.
