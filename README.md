@@ -90,6 +90,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper for surrealdb.js that holds queries until connection is established.
 - [mylk](https://github.com/ri-nat/mylk) - Client library for [Ruby](https://www.ruby-lang.org/en/) with support for HTTP and WebSocket connections.
 - [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP API. Can also be used outside of Cloudflare.
+- [surrealdb-erlang](https://github.com/meppu/surreal) - Client library for [Erlang](https://erlang.org) and other BEAM languages.
 - [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
 - [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for C.
 - [surrealdb.cr](https://github.com/yorci/surrealdb.cr) - Client library for [Crystal](https://crystal-lang.org) with support for HTTP and WebSocket connections.
