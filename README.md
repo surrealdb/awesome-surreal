@@ -134,6 +134,7 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 - [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
+- [Simple API with Gin/Gonic and SurrealDB (GO)](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - By Atharva Deshpande.
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
 - [Getting started with SurrealDB](https://surrealdb.com/blog/getting-started-with-surrealdb) - By SurrealDB team.
 - [How to Use SurrealDb with the Fresh Framework and Deno](https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/) - By Rajdeep Singh, FreeCodeCamp.
