@@ -132,6 +132,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
 
 ## Tutorials
+- [Deploy SurrealDB Today](https://github.com/miguelgargallo/deploy-surrealdb-today) - By Miguel Gargallo, ITAMAESAN ORG.
+- [Deploy SurrealDB Docker + Coolify](https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify) - By Miguel Gargallo, ITAMAESAN ORG.
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 - [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
 - [Simple API with Gin/Gonic and SurrealDB (GO)](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - By Atharva Deshpande.
