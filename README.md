@@ -103,6 +103,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
 - [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/lib) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for WebAssembly.
+- [SurrealDB\_DSL](https://github.com/mnbjhu/SurrealDB_DSL) - An unofficial Kotlin DSL and driver.
 
 ## Management interfaces
 - [SurrealDB Admin](https://github.com/sachinbhutani/surrealdb-admin) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
