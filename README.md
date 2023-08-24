@@ -79,6 +79,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Docker images](#docker-images)
 - [Integrations](#integrations)
 - [Libraries](#libraries)
+- [Starter Kits](#starter-kits)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
@@ -131,6 +132,9 @@ If you want to contribute to this list, then please read the [contributing guide
 - [ra-surrealdb](https://github.com/djedi23/ra-surrealdb) - A data provider and an auth provider for [react admin](https://marmelab.com/react-admin/) to integrate with SurrealDB.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
+
+## Starter Kits
+- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
