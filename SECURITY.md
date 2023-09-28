@@ -9,4 +9,5 @@ all legitimate reports and do our best to quickly fix the problem.
 
 Please report any issues or vulnerabilities to security@surrealdb.com, 
 instead of posting a public issue in GitHub. Please include the version 
-identifier, and details on how the vulnerability can be exploited.
+identifier, by running `surrealdb version` on the command-line, and 
+details on how the vulnerability can be exploited.
