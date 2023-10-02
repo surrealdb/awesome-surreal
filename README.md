@@ -135,6 +135,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Starter Kits
 - [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
+- [Nuxt Starter](https://github.com/dvanmali/surrealdb-nuxt-starter) - Dylan Vanmali.
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
