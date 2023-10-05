@@ -114,6 +114,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Development tools
 - [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
+- [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients
 
 ## Deployment tools
 - [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
