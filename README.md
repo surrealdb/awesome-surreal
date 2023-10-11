@@ -137,7 +137,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Starter Kits
 - [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
-- - [SurrealDB + React-Nodejs starter](https://github.com/metruzanca/surreal-solid-template) - M SaiKiran.
+- [SurrealDB + React-Nodejs starter](https://github.com/MSaiKiran9/react.nodejs_starter) - M SaiKiran.
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
