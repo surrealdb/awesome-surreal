@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+<h1>:purple_heart: Contributor Covenant Code of Conduct</h1>
 
 ## Our Pledge
 
@@ -34,9 +34,19 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project team at info@surrealdb.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the community team at community@surrealdb.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The community team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+
+Code of Conduct violations and associated penalties typically fall into one of the following categories:
+- Warning - For first-time, minor violations, the offender will receive a written warning, their account will be noted for future moderation, and the offending content will be removed.
+- Suspension - Repeated minor violations and first-time more serious violations may result in the suspension of the account for a period of time at the discretion of the moderators.
+- Removal/Ban - Actions that are seriously harmful to individuals in the community or the community as a whole will lead to account removal and a permanent ban from the community.
+
+All actions will be taken on a case-by-case basis at the discretion of the moderators.
+
+Thank you for helping make this a welcoming and friendly community for everyone!
+
 
 ## Attribution
 

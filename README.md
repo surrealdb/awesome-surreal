@@ -80,6 +80,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Integrations](#integrations)
 - [Libraries](#libraries)
 - [GitHub Actions](#github-actions)
+- [Starter Kits](#starter-kits)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
@@ -91,6 +92,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper for surrealdb.js that holds queries until connection is established.
 - [mylk](https://github.com/ri-nat/mylk) - Client library for [Ruby](https://www.ruby-lang.org/en/) with support for HTTP and WebSocket connections.
 - [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP API. Can also be used outside of Cloudflare.
+- [surrealdb-erlang](https://github.com/meppu/surreal) - Client library for [Erlang](https://erlang.org) and other BEAM languages.
 - [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
 - [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for C.
 - [surrealdb.cr](https://github.com/yorci/surrealdb.cr) - Client library for [Crystal](https://crystal-lang.org) with support for HTTP and WebSocket connections.
@@ -101,7 +103,9 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.node](https://github.com/surrealdb/surrealdb.node) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Node.js.
 - [surrealdb.php](https://github.com/surrealdb/surrealdb.php) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for PHP.
 - [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
+- [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/lib) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for WebAssembly.
+- [SurrealDB\_DSL](https://github.com/mnbjhu/SurrealDB_DSL) - An unofficial Kotlin DSL and driver.
 
 ## Management interfaces
 - [SurrealDB Admin](https://github.com/sachinbhutani/surrealdb-admin) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
@@ -111,9 +115,11 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Development tools
 - [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
+- [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients.
 
 ## Deployment tools
 - [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
+- [Pterodactyl Egg](https://github.com/Stefanuk12/Pterodactyl/blob/master/eggs/misc/egg-surrealdb.json) - An egg to deploy SurrealDB for the [Pterodactyl Panel](https://pterodactyl.io/).
 
 ## Docker images
 [surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Docker image.
@@ -127,16 +133,25 @@ If you want to contribute to this list, then please read the [contributing guide
 - [PySurrealDB](https://github.com/aurelion314/pysurrealdb) - SurrealDB driver and query builder for Python.
 - [ra-surrealdb](https://github.com/djedi23/ra-surrealdb) - A data provider and an auth provider for [react admin](https://marmelab.com/react-admin/) to integrate with SurrealDB.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
+- [surreal-id](https://github.com/liamwh/surreal-id) - (Rust) - Create custom ID types that are guaranteed to be valid RecordIds in SurrealDB, add them to your structs, and serialize and deserialize from SurrealDB with ease.
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
 
 ## GitHub Actions
 - [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
 - [Use SurrealDB in GitHub Actions](https://github.com/marketplace/actions/use-surrealdb-in-github-actions) - GitHub Action for using SurrealDB in your tests.
 
+## Starter Kits
+- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
+- [SurrealDB + SolidStart Starter](https://github.com/metruzanca/surreal-solid-template) - Sam "metru" Zanca.
+
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 - [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
+- [Simple API with Gin/Gonic and SurrealDB (GO)](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - By Atharva Deshpande.
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
+- [Getting started with SurrealDB](https://surrealdb.com/blog/getting-started-with-surrealdb) - By SurrealDB team.
+- [How to Use SurrealDb with the Fresh Framework and Deno](https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/) - By Rajdeep Singh, FreeCodeCamp.
+- [Improve database management with SurrealDB](https://blog.logrocket.com/improve-database-management-surrealdb/) - By Alexander Nnakwue, LogRocket.
 
 ## Videos
 - [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship.
@@ -146,6 +161,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
 
 ## Projects
+- [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
 - [gofer Engine](https://github.com/amaster507/gofer) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
 - [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
