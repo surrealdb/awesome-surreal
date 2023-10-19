@@ -137,6 +137,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Starter Kits
 - [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
+- [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97)
 - [SurrealDB + SolidStart Starter](https://github.com/metruzanca/surreal-solid-template) - Sam "metru" Zanca.
 
 ## Tutorials
