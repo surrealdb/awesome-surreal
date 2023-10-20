@@ -136,8 +136,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
 
 ## Starter Kits
-- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
 - [SurrealDB + Koa starter rest api](https://github.com/jerempy/surrealdb-starter-koa) - Jerempy.
+- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
