@@ -139,7 +139,6 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + Koa starter rest api](https://github.com/jerempy/surrealdb-starter-koa) - Jerempy.
 - [SurrealDB + React-Nodejs starter](https://github.com/MSaiKiran9/react.nodejs_starter) - M SaiKiran.
 - [SurrealDB + SolidStart Starter](https://github.com/metruzanca/surreal-solid-template) - Sam "metru" Zanca.
-- [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
 - [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
 - [Starter Kit for SurrealDB + Tauri + Next.js](https://github.com/reymom/surrealdb-starter-taurikit) - Reymom.
 - [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
