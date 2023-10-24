@@ -136,9 +136,14 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
 
 ## Starter Kits
-- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
+- [SurrealDB + Koa starter rest api](https://github.com/jerempy/surrealdb-starter-koa) - Jerempy.
+- [SurrealDB + React-Nodejs starter](https://github.com/MSaiKiran9/react.nodejs_starter) - M SaiKiran.
 - [SurrealDB + SolidStart Starter](https://github.com/metruzanca/surreal-solid-template) - Sam "metru" Zanca.
 - [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
+- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
+- [Starter Kit for SurrealDB + Tauri + Next.js](https://github.com/reymom/surrealdb-starter-taurikit) - Reymom.
+- [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
+
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
@@ -163,3 +168,4 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Pandorica](https://github.com/omnilium/pandorica) - FOSS zero-knowledge secure file storage.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
+- [SurrealDB Sandbox](https://github.com/plasmatech8/surrealdb-sandbox) - An offline browser-based playground for experimenting with SurrealDB.
