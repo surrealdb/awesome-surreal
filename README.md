@@ -142,6 +142,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
 - [Starter Kit for SurrealDB + Tauri + Next.js](https://github.com/reymom/surrealdb-starter-taurikit) - Reymom.
 - [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
+- [SurrealDB + FastAPI-NextJS Starter](https://github.com/richie-omondi/fastapi-nextjs-surrealdb-starterkit) - Mardav Chirag and Richard Orido.
 
 
 ## Tutorials
