@@ -136,6 +136,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
 
 ## Starter Kits
+- [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97)
 - [SurrealDB + Koa starter rest api](https://github.com/jerempy/surrealdb-starter-koa) - Jerempy.
 - [SurrealDB + React-Nodejs starter](https://github.com/MSaiKiran9/react.nodejs_starter) - M SaiKiran.
 - [SurrealDB + SolidStart Starter](https://github.com/metruzanca/surreal-solid-template) - Sam "metru" Zanca.
