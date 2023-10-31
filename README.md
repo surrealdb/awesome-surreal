@@ -79,6 +79,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Docker images](#docker-images)
 - [Integrations](#integrations)
 - [Libraries](#libraries)
+- [GitHub Actions](#github-actions)
 - [Starter Kits](#starter-kits)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -134,6 +135,10 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
 - [surreal-id](https://github.com/liamwh/surreal-id) - (Rust) - Create custom ID types that are guaranteed to be valid RecordIds in SurrealDB, add them to your structs, and serialize and deserialize from SurrealDB with ease.
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
+
+## GitHub Actions
+- [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
+- [Use SurrealDB in GitHub Actions](https://github.com/marketplace/actions/use-surrealdb-in-github-actions) - GitHub Action for using SurrealDB in your tests.
 
 ## Starter Kits
 - [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97)
