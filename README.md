@@ -79,6 +79,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Docker images](#docker-images)
 - [Integrations](#integrations)
 - [Libraries](#libraries)
+- [GitHub Actions](#github-actions)
 - [Starter Kits](#starter-kits)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -135,9 +136,23 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surreal-id](https://github.com/liamwh/surreal-id) - (Rust) - Create custom ID types that are guaranteed to be valid RecordIds in SurrealDB, add them to your structs, and serialize and deserialize from SurrealDB with ease.
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
 
+## GitHub Actions
+- [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
+- [Use SurrealDB in GitHub Actions](https://github.com/marketplace/actions/use-surrealdb-in-github-actions) - GitHub Action for using SurrealDB in your tests.
+
 ## Starter Kits
-- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
+- [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97)
+- [SurrealDB + Koa starter rest api](https://github.com/jerempy/surrealdb-starter-koa) - Jerempy.
+- [SurrealDB + Nuxt 3 Starter](https://github.com/dvanmali/surrealdb-nuxt-starter) - Dylan Vanmali.
+- [SurrealDB + React-Nodejs starter](https://github.com/MSaiKiran9/react.nodejs_starter) - M SaiKiran.
 - [SurrealDB + SolidStart Starter](https://github.com/metruzanca/surreal-solid-template) - Sam "metru" Zanca.
+- [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
+- [Starter Kit for SurrealDB + Tauri + Next.js](https://github.com/reymom/surrealdb-starter-taurikit) - Reymom.
+- [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
+- [SurrealDB + FastAPI-NextJS Starter](https://github.com/richie-omondi/fastapi-nextjs-surrealdb-starterkit) - Mardav Chirag and Richard Orido.
+- [SurrealDB + Vue Starter](https://github.com/inkollusireeshaadharani/vue-starter-kit) - Dharani Inkollu.
+- [SurrealDB + Rocket](https://github.com/davidzr/surrealdb-rocket-starter) - David Zabala.
+- [Starter Kit for SurrealDB + SpringBoot](https://github.com/PDROJACK/surrealdb-springboot-starter) - PDROJACK.
 - [SurrealDB + Flask Starter](https://github.com/syedzubeen/surrealdb_flask_starter_app) - Syed Zubeen.
 
 ## Tutorials
@@ -163,3 +178,5 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Pandorica](https://github.com/omnilium/pandorica) - FOSS zero-knowledge secure file storage.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
+- [SurrealDB Presence Demo](https://github.com/Odonno/surrealdb-presence-demo) - Demo project on how to create a realtime presence web application using SurrealDB Live Queries.
+- [SurrealDB Sandbox](https://github.com/plasmatech8/surrealdb-sandbox) - An offline browser-based playground for experimenting with SurrealDB.
