@@ -177,4 +177,5 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Pandorica](https://github.com/omnilium/pandorica) - FOSS zero-knowledge secure file storage.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
+- [SurrealDB Presence Demo](https://github.com/Odonno/surrealdb-presence-demo) - Demo project on how to create a realtime presence web application using SurrealDB Live Queries.
 - [SurrealDB Sandbox](https://github.com/plasmatech8/surrealdb-sandbox) - An offline browser-based playground for experimenting with SurrealDB.
