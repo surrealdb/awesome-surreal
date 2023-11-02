@@ -141,7 +141,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Use SurrealDB in GitHub Actions](https://github.com/marketplace/actions/use-surrealdb-in-github-actions) - GitHub Action for using SurrealDB in your tests.
 
 ## Starter Kits
-- [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97)
+- [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97).
 - [SurrealDB + Koa starter rest api](https://github.com/jerempy/surrealdb-starter-koa) - Jerempy.
 - [SurrealDB + Nuxt 3 Starter](https://github.com/dvanmali/surrealdb-nuxt-starter) - Dylan Vanmali.
 - [SurrealDB + React-Nodejs starter](https://github.com/MSaiKiran9/react.nodejs_starter) - M SaiKiran.
@@ -154,6 +154,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + Rocket](https://github.com/davidzr/surrealdb-rocket-starter) - David Zabala.
 - [Starter Kit for SurrealDB + SpringBoot](https://github.com/PDROJACK/surrealdb-springboot-starter) - PDROJACK.
 - [SurrealDB + Flask Starter](https://github.com/syedzubeen/surrealdb_flask_starter_app) - Syed Zubeen.
+- [SurrealDB + SvelteKit](https://github.com/oskar-gmerek/surreal-sveltekit) - [Oskar Gmerek](https://oskargmerek.com)
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
