@@ -153,6 +153,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + Vue Starter](https://github.com/inkollusireeshaadharani/vue-starter-kit) - Dharani Inkollu.
 - [SurrealDB + Rocket](https://github.com/davidzr/surrealdb-rocket-starter) - David Zabala.
 - [Starter Kit for SurrealDB + SpringBoot](https://github.com/PDROJACK/surrealdb-springboot-starter) - PDROJACK.
+- [SurrealDB + Flask Starter](https://github.com/syedzubeen/surrealdb_flask_starter_app) - Syed Zubeen.
 
 ## Tutorials
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
