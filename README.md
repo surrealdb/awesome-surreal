@@ -120,6 +120,7 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Deployment tools
 - [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
 - [Pterodactyl Egg](https://github.com/Stefanuk12/Pterodactyl/blob/master/eggs/misc/egg-surrealdb.json) - An egg to deploy SurrealDB for the [Pterodactyl Panel](https://pterodactyl.io/).
+- [GKE using Terraform](https://github.com/dvanmali/terraform-google-surrealdb) - Multicluster Cross-Regional Deployment using GKE Autopilot and [Terraform](https://www.terraform.io/)
 
 ## Docker images
 [surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Docker image.
