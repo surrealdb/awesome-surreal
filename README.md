@@ -132,6 +132,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Cirql](https://github.com/StarlaneStudios/cirql) - Flexible SurrealDB TypeScript ORM leveraging the power of Zod schemas.
 - [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) - Kysely (type-safe sql query builder) dialects, plugins and other goodies for SurrealDB.
 - [PySurrealDB](https://github.com/aurelion314/pysurrealdb) - SurrealDB driver and query builder for Python.
+- [allographer](https://github.com/itsumura-h/nim-allographer) - A query builder and schema builder for Nim that also supports SurrealDB.
 - [ra-surrealdb](https://github.com/djedi23/ra-surrealdb) - A data provider and an auth provider for [react admin](https://marmelab.com/react-admin/) to integrate with SurrealDB.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
 - [surreal-id](https://github.com/liamwh/surreal-id) - (Rust) - Create custom ID types that are guaranteed to be valid RecordIds in SurrealDB, add them to your structs, and serialize and deserialize from SurrealDB with ease.
