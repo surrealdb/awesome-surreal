@@ -159,7 +159,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + SvelteKit](https://github.com/oskar-gmerek/surreal-sveltekit) - [Oskar Gmerek](https://oskargmerek.com)
 
 ## Tutorials
-- [Unlocking SurrealDB: Building a Real-World Multi-Tenant RBAC System Made Easy (4 Part Series)]([url](https://dev.to/sebastian_wessel/series/24535)) - [Sebastian Wessel](https://github.com/sebastianwessel)
+- [Unlocking SurrealDB: Building a Real-World Multi-Tenant RBAC System Made Easy (4 Part Series)](https://dev.to/sebastian_wessel/series/24535) - [Sebastian Wessel](https://github.com/sebastianwessel)
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 - [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
 - [Simple API with Gin/Gonic and SurrealDB (GO)](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - By Atharva Deshpande.
