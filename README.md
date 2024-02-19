@@ -39,6 +39,8 @@
     <a href="https://dev.to/surrealdb"><img src="https://img.shields.io/badge/dev-join_us-86f7b7.svg?style=flat-square"></a>
     &nbsp;
     <a href="https://www.linkedin.com/company/surrealdb/"><img src="https://img.shields.io/badge/linkedin-connect_with_us-0a66c2.svg?style=flat-square"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/channel/UCjf2teVEuYVvvVC-gFZNq6w"><img src="https://img.shields.io/badge/youtube-subscribe-ff0000.svg?style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -57,7 +59,6 @@
     <a href="https://surrealdb.com/discord"><img height="25" src="/img/social/discord.svg" alt="Discord"></a>
     &nbsp;
     <a href="https://stackoverflow.com/questions/tagged/surrealdb"><img height="25" src="/img/social/stack-overflow.svg" alt="StackOverflow"></a>
-
 </p>
 
 <br>
