@@ -180,6 +180,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Rust Powered Database SurrealDB (It's Pretty Ambitious)](https://www.youtube.com/watch?v=DPQbuW9dQ7w) - Code to the Moon.
 - [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship.
 - [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
+- [Using SurrealDB to prove football statistics](https://www.youtube.com/watch?v=6J1SPMXzOh4&t=5s) - By Joseph McCarthy, Irish Abroad
 
 ## Projects
 - [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
