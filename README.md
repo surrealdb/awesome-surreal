@@ -137,8 +137,12 @@ If you want to contribute to this list, then please read the [contributing guide
 - [ra-surrealdb](https://github.com/djedi23/ra-surrealdb) - A data provider and an auth provider for [react admin](https://marmelab.com/react-admin/) to integrate with SurrealDB.
 - [Sirqle](https://github.com/PythiaSocialTech/sirqle) - Python wrapper for surrealdb.py.
 - [surreal-id](https://github.com/liamwh/surreal-id) - (Rust) - Create custom ID types that are guaranteed to be valid RecordIds in SurrealDB, add them to your structs, and serialize and deserialize from SurrealDB with ease.
+- [surrealdb-extras](https://docs.rs/surrealdb-extras/latest/surrealdb_extras/) - (Rust) Creates namespace, database, tables and defines attributes automatically and generates/adds functions like add/delete/update to the struct.
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
+- [surrealdb_extra](https://github.com/jakin010/surrealdb_extra) - (Rust) - Query builder and orm.
+- [surrealdb_migration_engine](https://github.com/mcmah309/surrealdb_migration_engine) - Simple yet powerful migration engine for SurrealDB.
 - [surrealist](https://github.com/kotolex/surrealist) - Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).
+- [Surrealised](https://github.com/ozone-team/surrealised) - A Server-Side TypeScript SurrealDB Client with a fluent query builder.
 
 ## GitHub Actions
 - [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
