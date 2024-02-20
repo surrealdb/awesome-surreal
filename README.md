@@ -178,7 +178,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Projects
 - [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
-- [gofer Engine](https://github.com/amaster507/gofer) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
+- [Gofer Engine](https://github.com/gofer-engine/gofer-engine) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
 - [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Pandorica](https://github.com/omnilium/pandorica) - FOSS zero-knowledge secure file storage.
