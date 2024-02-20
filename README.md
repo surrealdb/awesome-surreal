@@ -39,6 +39,8 @@
     <a href="https://dev.to/surrealdb"><img src="https://img.shields.io/badge/dev-join_us-86f7b7.svg?style=flat-square"></a>
     &nbsp;
     <a href="https://www.linkedin.com/company/surrealdb/"><img src="https://img.shields.io/badge/linkedin-connect_with_us-0a66c2.svg?style=flat-square"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/channel/UCjf2teVEuYVvvVC-gFZNq6w"><img src="https://img.shields.io/badge/youtube-subscribe-ff0000.svg?style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -57,7 +59,6 @@
     <a href="https://surrealdb.com/discord"><img height="25" src="/img/social/discord.svg" alt="Discord"></a>
     &nbsp;
     <a href="https://stackoverflow.com/questions/tagged/surrealdb"><img height="25" src="/img/social/stack-overflow.svg" alt="StackOverflow"></a>
-
 </p>
 
 <br>
@@ -159,7 +160,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + SvelteKit](https://github.com/oskar-gmerek/surreal-sveltekit) - [Oskar Gmerek](https://oskargmerek.com)
 
 ## Tutorials
-- [Unlocking SurrealDB: Building a Real-World Multi-Tenant RBAC System Made Easy (4 Part Series)]([url](https://dev.to/sebastian_wessel/series/24535)) - [Sebastian Wessel](https://github.com/sebastianwessel)
+- [Unlocking SurrealDB: Building a Real-World Multi-Tenant RBAC System Made Easy (4 Part Series)](https://dev.to/sebastian_wessel/series/24535) - [Sebastian Wessel](https://github.com/sebastianwessel)
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
 - [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
 - [Simple API with Gin/Gonic and SurrealDB (GO)](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - By Atharva Deshpande.
@@ -177,7 +178,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Projects
 - [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
-- [gofer Engine](https://github.com/amaster507/gofer) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
+- [Gofer Engine](https://github.com/gofer-engine/gofer-engine) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
 - [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Pandorica](https://github.com/omnilium/pandorica) - FOSS zero-knowledge secure file storage.
