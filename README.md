@@ -127,7 +127,8 @@ If you want to contribute to this list, then please read the [contributing guide
 [surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Docker image.
 
 ## Integrations
-*This category is currently empty*
+- [SurrealDB Document Loader for LangChain](https://python.langchain.com/docs/integrations/document_loaders/surrealdb) - A simple [document loader](https://python.langchain.com/docs/modules/data_connection/document_loaders/) implementation around SurrealDB for [LangChain](https://www.langchain.com/).
+- [SurrealDB Vector Store for LangChain](https://python.langchain.com/docs/integrations/vectorstores/surrealdb) - Use SurrealDB as a [vector store backed retriever](https://python.langchain.com/docs/modules/data_connection/retrievers/vectorstore) within [LangChain](https://www.langchain.com/) to build rich Generative AI applications with Large Language Models.
 
 ## Libraries
 - [Cirql](https://github.com/StarlaneStudios/cirql) - Flexible SurrealDB TypeScript ORM leveraging the power of Zod schemas.
@@ -173,6 +174,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Getting started with SurrealDB](https://surrealdb.com/blog/getting-started-with-surrealdb) - By SurrealDB team.
 - [How to Use SurrealDb with the Fresh Framework and Deno](https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/) - By Rajdeep Singh, FreeCodeCamp.
 - [Improve database management with SurrealDB](https://blog.logrocket.com/improve-database-management-surrealdb/) - By Alexander Nnakwue, LogRocket.
+- [Build an AI RAG Agent with LangGraph, Ollama, Llama2, and SurrealDB](https://github.com/colinmcnamara/austin_langchain/blob/main/labs/LangChain_104/104-langgraph-rag-agent.ipynb) - By [Karim Lalani](https://github.com/lalanikarim) for [Austin LangChain Group](https://github.com/colinmcnamara/austin_langchain).
 
 ## Videos
 - [Beyond Surreal? A closer look at NewSQL Relational Data](https://www.youtube.com/watch?v=LCAIkx1p1k0) - Beyond Fireship.
