@@ -160,6 +160,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
 - [SurrealDB + FastAPI-NextJS Starter](https://github.com/richie-omondi/fastapi-nextjs-surrealdb-starterkit) - Mardav Chirag and Richard Orido.
 - [SurrealDB + Vue Starter](https://github.com/inkollusireeshaadharani/vue-starter-kit) - Dharani Inkollu.
+- [SurrealDB + Vue Blog Starter](https://github.com/SrWither/surrealdb-vuejs) - SrWither.
 - [SurrealDB + Rocket](https://github.com/davidzr/surrealdb-rocket-starter) - David Zabala.
 - [Starter Kit for SurrealDB + SpringBoot](https://github.com/PDROJACK/surrealdb-springboot-starter) - PDROJACK.
 - [SurrealDB + Flask Starter](https://github.com/syedzubeen/surrealdb_flask_starter_app) - Syed Zubeen.
