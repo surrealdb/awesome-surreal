@@ -111,7 +111,7 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Management interfaces
 - [SurrealDB Admin](https://github.com/sachinbhutani/surrealdb-admin) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
 - [SurrealDB Explorer](https://github.com/iDevelopThings/SurrealDB-Explorer) - A simple database viewer/editor for SurrealDB.
-- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - A powerful graphical SurrealDB query playground and database explorer.
+- [Surrealist](https://github.com/surrealdb/surrealist) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official dashboard, query playground and database explorer for SurrealDB.
 - [SurrealReact](https://github.com/rvdende/surrealreact) - An explorer UI written in react.
 
 ## Development tools
