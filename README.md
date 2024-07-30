@@ -202,3 +202,4 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB Sandbox](https://github.com/plasmatech8/surrealdb-sandbox) - An offline browser-based playground for experimenting with SurrealDB.
 - [SurrealDB x OpenAI](https://github.com/Ce11an/surrealdb-openai) - Example of RAG using SurrealDB and OpenAI.
 - [Style Guide AI Assistant](https://github.com/lalanikarim/style-guide-ai-assistant) - A voice enabled AI assistant that lets you talk to your wardrobe.
+- [SurrealDB as a Vector Store for LangChain](https://github.com/lalanikarim/notebooks/blob/main/SurrealDB-Langchain.ipynb) - A Jupyter notebook demonstrating how to use SurrealDB as a Vector Store when building Generative AI applications with LangChain.
