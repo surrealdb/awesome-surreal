@@ -196,7 +196,6 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Gofer Engine](https://github.com/gofer-engine/gofer-engine) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
 - [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
-- [Pandorica](https://github.com/omnilium/pandorica) - FOSS zero-knowledge secure file storage.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
 - [SurrealDB AI Docs Retrieval](https://github.com/truskovskiyk/surrealdb-docs-retrieval) - Project to showcase: How to build a GPT-Based question-answering system on top of SurrealDB Docs. Utilizing SurrealDB as a vector store itself.
 - [SurrealDB Presence Demo](https://github.com/Odonno/surrealdb-presence-demo) - Demo project on how to create a realtime presence web application using SurrealDB Live Queries.
