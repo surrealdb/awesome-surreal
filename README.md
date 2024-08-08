@@ -189,6 +189,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB in 100 seconds](https://www.youtube.com/watch?v=C7WFwgDRStM) - Fireship.
 - [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
 - [Using SurrealDB to prove football statistics](https://www.youtube.com/watch?v=6J1SPMXzOh4&t=5s) - By Joseph McCarthy, Irish Abroad.
+- [Livestream series documenting learning SurrealDB](https://www.youtube.com/playlist?list=PL5AVzKSngnt_xPGNuYdrbB7NZtJbQ046a) - By Xkonti.
 
 ## Projects
 - [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
