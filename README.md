@@ -147,6 +147,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb_migration_engine](https://github.com/mcmah309/surrealdb_migration_engine) - Simple yet powerful migration engine for SurrealDB.
 - [surrealist](https://github.com/kotolex/surrealist) - Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).
 - [Surrealised](https://github.com/ozone-team/surrealised) - A Server-Side TypeScript SurrealDB Client with a fluent query builder.
+- [type-surrealdb](https://github.com/ibilux/type-surrealdb) - Generate schemas and `.surql` for SurrealDB using TypeScript classes and decorators.
 
 ## GitHub Actions
 - [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
