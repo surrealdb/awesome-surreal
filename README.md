@@ -108,7 +108,6 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for WebAssembly.
 - [SurrealDB\_DSL](https://github.com/mnbjhu/SurrealDB_DSL) - An unofficial Kotlin DSL and driver.
 - [surrealdb-spring-client](https://github.com/Mukund2900/surrealdb-spring-client) - An unofficial maven library to easily integrate surrealdb with springboot.
-- [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB Typescript client generator, generates a typed extension of the offical JavaScript/Typescript SDK. Type-checks your raw `SURQL` queries against your schema to generate strongly typed queries & parameters.
 
 ## Management interfaces
 - [SurrealDB Admin](https://github.com/sachinbhutani/surrealdb-admin) - A serverless app to browse and query your local or cloud surrealDB instance. No installation required. 
@@ -119,7 +118,7 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Development tools
 - [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 - [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients.
-- [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB Typescript generator. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
+- [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB Typescript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
 
 ## Deployment tools
 - [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
