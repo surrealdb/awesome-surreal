@@ -148,6 +148,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealist](https://github.com/kotolex/surrealist) - Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).
 - [Surrealised](https://github.com/ozone-team/surrealised) - A Server-Side TypeScript SurrealDB Client with a fluent query builder.
 - [type-surrealdb](https://github.com/ibilux/type-surrealdb) - Generate schemas and `.surql` for SurrealDB using TypeScript classes and decorators.
+- [surrealdb-zod](https://github.com/ShadowWolf308/surrealdb-zod) - Re-usable zod schema's for use with the [SurrealDB sdk](https://github.com/surrealdb/surrealdb.js).
 
 ## GitHub Actions
 - [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
