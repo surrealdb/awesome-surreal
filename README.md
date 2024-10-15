@@ -170,6 +170,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + Vue Starter](https://github.com/inkollusireeshaadharani/vue-starter-kit) - Dharani Inkollu.
 
 ## Tutorials
+- [Aeon's Surreal Renaissance](https://surrealdb.com/learn/book/) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official book for in-depth learning through storytelling
 - [Build an AI RAG Agent with LangGraph, Ollama, Llama2, and SurrealDB](https://github.com/colinmcnamara/austin_langchain/blob/main/labs/LangChain_104/104-langgraph-rag-agent.ipynb) - By [Karim Lalani](https://github.com/lalanikarim) for [Austin LangChain Group](https://github.com/colinmcnamara/austin_langchain).
 - [CLI phone book in Python using SurrealDB as database](https://code-maven.com/surrealdb-python-cli-phonebook) - By Gabor Szabo.
 - [Getting started with SurrealDB using Python and Docker](https://code-maven.com/surrealdb-getting-started) - By Gabor Szabo.
@@ -179,6 +180,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Improve database management with SurrealDB](https://blog.logrocket.com/improve-database-management-surrealdb/) - By Alexander Nnakwue, LogRocket.
 - [Simple API with Gin/Gonic and SurrealDB (GO)](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - By Atharva Deshpande.
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
+- [SurrealDB Fundamentals Course](https://surrealdb.com/learn/fundamentals/) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official course to efficiently learn SurrealDB in 3 hours
 - [Unlocking SurrealDB: Building a Real-World Multi-Tenant RBAC System Made Easy (4 Part Series)](https://dev.to/sebastian_wessel/series/24535) - [Sebastian Wessel](https://github.com/sebastianwessel)
 
 ## Videos
