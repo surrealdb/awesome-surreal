@@ -116,7 +116,6 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealReact](https://github.com/rvdende/surrealreact) - An explorer UI written in react.
 
 ## Development tools
-- [Surreal-Fiber](https://github.com/devpikachu/surreal-fiber) - A REST API Fiber Web Framework boilerplate using SurrealDB for applications written in Go.
 - [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients.
 - [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB Typescript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
 
@@ -173,7 +172,6 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Tutorials
 - [Unlocking SurrealDB: Building a Real-World Multi-Tenant RBAC System Made Easy (4 Part Series)](https://dev.to/sebastian_wessel/series/24535) - [Sebastian Wessel](https://github.com/sebastianwessel)
 - [Hosting Surreal DB in Rust in Less Than 3 Minutes](https://www.youtube.com/watch?v=VoRoeL1tal4) - Gui Bibeau.
-- [Official community tutorials website](https://tutorials.surrealdb.com) - By SurrealDB team & Community.
 - [Simple API with Gin/Gonic and SurrealDB (GO)](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - By Atharva Deshpande.
 - [SurrealDB - Rust Embedded Database - Quick Tutorial](https://www.youtube.com/watch?v=iOyvum0D3LM) - Jeremy Chone.
 - [Getting started with SurrealDB](https://surrealdb.com/blog/getting-started-with-surrealdb) - By SurrealDB team.
