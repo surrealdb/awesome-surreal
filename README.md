@@ -144,6 +144,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb_query_builder](https://github.com/AyushChothe/surrealdb_query_builder) - SurrealDB query builder for Dart and Flutter.
 - [surrealdb-extras](https://docs.rs/surrealdb-extras/latest/surrealdb_extras/) - (Rust) Creates namespace, database, tables and defines attributes automatically and generates/adds functions like add/delete/update to the struct.
 - [surrealdb-migrations](https://github.com/Odonno/surrealdb-migrations) - An awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project.
+- [surrealdb-valibot](https://github.com/ShadowWolf308/surrealdb-valibot) - Re-usable valibot schema's for use with the [SurrealDB sdk](https://github.com/surrealdb/surrealdb.js).
 - [Surrealised](https://github.com/ozone-team/surrealised) - A Server-Side TypeScript SurrealDB Client with a fluent query builder.
 - [surrealist](https://github.com/kotolex/surrealist) - Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).
 - [type-surrealdb](https://github.com/ibilux/type-surrealdb) - Generate schemas and `.surql` for SurrealDB using TypeScript classes and decorators.
