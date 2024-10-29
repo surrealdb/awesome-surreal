@@ -151,6 +151,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [type-surrealdb](https://github.com/ibilux/type-surrealdb) - Generate schemas and `.surql` for SurrealDB using TypeScript classes and decorators.
 
 ## GitHub Actions
+- [SurrealDB GitHub Action](https://github.com/marketplace/actions/surrealdb-in-github-action) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Github Action to use SurrealDB in GitHub Continuous Integration pipelines.
 - [surrealdb-migrations](https://github.com/marketplace/actions/surrealdb-migrations) - This GitHub Action installs and runs surrealdb-migrations. It is used to apply migrations on a SurrealDB instance.
 - [Use SurrealDB in GitHub Actions](https://github.com/marketplace/actions/use-surrealdb-in-github-actions) - GitHub Action for using SurrealDB in your tests.
 
