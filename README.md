@@ -13,15 +13,15 @@
 
 <h3 align="center">
     <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
-        <img src="/img/white/text.svg" height="15" alt="SurrealDB">
+        <img src="./img/white/text.svg" height="15" alt="SurrealDB">
     </a>
-    <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
-        <img src="/img/black/text.svg" height="15" alt="SurrealDB">
+	<a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
+        <img src="./img/black/text.svg" height="15" alt="SurrealDB">
     </a>
-    is the ultimate cloud <br> database for tomorrow's applications
+    is the world's most <br> powerful multi-model database
 </h3>
 
-<h3 align="center">Develop easier. &nbsp; Build faster. &nbsp; Scale quicker.</h3>
+<h3 align="center">One platform. &nbsp; Unlimited possibilities.</h3>
 
 <br>
 
