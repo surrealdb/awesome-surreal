@@ -167,6 +167,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + Rocket](https://github.com/davidzr/surrealdb-rocket-starter) - David Zabala.
 - [SurrealDB + SolidStart Starter](https://github.com/metruzanca/surreal-solid-template) - Sam "metru" Zanca.
 - [SurrealDB + Streamlit Starter](https://github.com/LuciAkirami/surrealdb-streamlit-starter-kit) - Lucifer Akirami.
+- [SurrealDB + SvelteKit Auth Example](https://github.com/AlbertMarashi/surrealdb-svelte-auth-template) - A JWT-based authentication example with globally available, universal request-isolated database example implementation - Albert Marashi.
 - [SurrealDB + SvelteKit Starter](https://github.com/spinspire/surrealdb-sveltekit-starter) - Jitesh Doshi.
 - [SurrealDB + SvelteKit](https://github.com/oskar-gmerek/surreal-sveltekit) - [Oskar Gmerek](https://oskargmerek.com)
 - [SurrealDB + Vue Blog Starter](https://github.com/SrWither/surrealdb-vuejs) - SrWither.
