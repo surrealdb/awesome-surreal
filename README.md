@@ -128,6 +128,7 @@ If you want to contribute to this list, then please read the [contributing guide
 [surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Docker image.
 
 ## Integrations
+- [surreal-better-auth](https://github.com/oskar-gmerek/surreal-better-auth) - SurrealDB adapter for [Better-Auth](https://better-auth.com) - [Oskar Gmerek](https://oskargmerek.com)
 - [SurrealDB Document Loader for LangChain](https://python.langchain.com/docs/integrations/document_loaders/surrealdb) - A simple [document loader](https://python.langchain.com/docs/modules/data_connection/document_loaders/) implementation around SurrealDB for [LangChain](https://www.langchain.com/).
 - [SurrealDB Vector Store for LangChain](https://python.langchain.com/docs/integrations/vectorstores/surrealdb) - Use SurrealDB as a [vector store backed retriever](https://python.langchain.com/docs/modules/data_connection/retrievers/vectorstore) within LangChain to build rich Generative AI applications with Large Language Models.
 
