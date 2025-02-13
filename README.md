@@ -203,6 +203,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
 - [Style Guide AI Assistant](https://github.com/lalanikarim/style-guide-ai-assistant) - A voice enabled AI assistant that lets you talk to your wardrobe.
+- [Surreal-4o Fine-tuned Model Datasets for SurrealQL Queries](https://github.com/sFritsch09/surreal-4o) - Project to create structured datasets for OpenAI to fine-tune o3-mini for generating text in SurrealQL.
 - [SurrealDB AI Docs Retrieval](https://github.com/truskovskiyk/surrealdb-docs-retrieval) - Project to showcase: How to build a GPT-Based question-answering system on top of SurrealDB Docs. Utilizing SurrealDB as a vector store itself.
 - [SurrealDB as a Vector Store for LangChain](https://github.com/lalanikarim/notebooks/blob/main/SurrealDB-Langchain.ipynb) - A Jupyter notebook demonstrating how to use SurrealDB as a Vector Store when building Generative AI applications with LangChain.
 - [SurrealDB Presence Demo](https://github.com/Odonno/surrealdb-presence-demo) - Demo project on how to create a realtime presence web application using SurrealDB Live Queries.
