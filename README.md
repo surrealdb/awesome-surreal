@@ -65,7 +65,8 @@
 
 # Awesome SurrealDB
 
-A curated list of [SurrealDB](surrealdb/surrealdb) resources, tools, utilities, and applications.
+<!--lint ignore double-link-->
+A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources, tools, utilities, and applications.
 
 If you want to contribute to this list, then please read the [contributing guidelines](https://github.com/surrealdb/awesome-surreal/blob/main/CONTRIBUTING.md).
 
@@ -87,6 +88,8 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Projects](#projects)
 
 ## Applications
+
+<!--lint ignore double-link-->
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Client libraries
@@ -106,7 +109,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [surrealdb.php](https://github.com/surrealdb/surrealdb.php) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for PHP.
 - [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
 - [surrealdb.wasm](https://github.com/surrealdb/surrealdb.wasm) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for WebAssembly.
-- [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/sdk) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
+- [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
 - [SurrealDB\_DSL](https://github.com/mnbjhu/SurrealDB_DSL) - An unofficial Kotlin DSL and driver.
 
 ## Management interfaces
