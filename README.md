@@ -133,6 +133,7 @@ If you want to contribute to this list, then please read the [contributing guide
 ## Integrations
 - [SurrealDB Document Loader for LangChain](https://python.langchain.com/docs/integrations/document_loaders/surrealdb) - A simple [document loader](https://python.langchain.com/docs/modules/data_connection/document_loaders/) implementation around SurrealDB for [LangChain](https://www.langchain.com/).
 - [SurrealDB Vector Store for LangChain](https://python.langchain.com/docs/integrations/vectorstores/surrealdb) - Use SurrealDB as a [vector store backed retriever](https://python.langchain.com/docs/modules/data_connection/retrievers/vectorstore) within LangChain to build rich Generative AI applications with Large Language Models.
+- [SurrealDB Grafana datasource](https://github.com/grafana/surrealdb-datasource) - The SurrealDB datasource plugin enables you to query and visualise SurrealDB data directly within Grafana, offering seamless integration and exploration of SurrealDB datasets.
 
 ## Libraries
 - [allographer](https://github.com/itsumura-h/nim-allographer) - A query builder and schema builder for Nim that also supports SurrealDB.
