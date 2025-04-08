@@ -214,3 +214,6 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB Sandbox](https://github.com/plasmatech8/surrealdb-sandbox) - An offline browser-based playground for experimenting with SurrealDB.
 - [SurrealDB x OpenAI](https://github.com/Ce11an/surrealdb-openai) - Example of RAG using SurrealDB and OpenAI.
 - [SurrealML vs PyTorch vs ONNX](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main) - Benchmarking the performance of SurrealML against PyTorch and ONNX - [Vladimir Rotariu](https://github.com/vladimirrotariu)
+
+## Integrations
+- [SurrealDB-MCP-Server](https://github.com/nsxdavid/surrealdb-mcp-server) - An MCP server enabling LLMs to communicate with SurrealDB databases.
