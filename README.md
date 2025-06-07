@@ -176,7 +176,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB + SvelteKit](https://github.com/oskar-gmerek/surreal-sveltekit) - [Oskar Gmerek](https://oskargmerek.com)
 - [SurrealDB + Vue Blog Starter](https://github.com/SrWither/surrealdb-vuejs) - SrWither.
 - [SurrealDB + Vue Starter](https://github.com/inkollusireeshaadharani/vue-starter-kit) - Dharani Inkollu.
-- [SurrealDB + Vue3 Template](https://github.com/tongxinCode/surrealdb-vue-template) - Vue 3 + TypeScript + Vite + Surrealdb + Websocket + Element-plus(中文友好) - tongxinCode
+- [SurrealDB + Vue3 Template](https://github.com/tongxinCode/surrealdb-vue-template) - Vue 3 + TypeScript + Vite + Surrealdb + Websocket + Element-plus(Chinese friendly) - tongxinCode.
 
 ## Tutorials
 - [Aeon's Surreal Renaissance](https://surrealdb.com/learn/book/) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official book for in-depth learning through storytelling.
