@@ -82,6 +82,8 @@
   </p>
 </div>
 
+--- 
+
 # Awesome SurrealDB
 
 <!--lint ignore double-link-->
