@@ -63,12 +63,32 @@
 
 <br>
 
+---
+
+<div align="center">
+  <h2>🚨 Important 🚨</h2>
+  
+  <p>
+    <strong> We're moving Awesome Surreal content to <a href="https://surrealdb.com/docs/labs"> Surreal Labs!</a></strong>
+  </p>
+  
+  <p>
+    To contribute your SurrealDB projects, tools, or resources, please follow our new 
+    <a href="https://github.com/surrealdb/docs.surrealdb.com?tab=readme-ov-file#contributing-to-the-documentation">Lab Contribution Guide</a>.
+  </p>
+  
+  <p>
+    <em>This repository will be archived soon. All new content should be <a href= "https://github.com/surrealdb/docs.surrealdb.com/tree/main/src/content/labs-items"> submitted to Surreal Labs. </a></em>
+  </p>
+</div>
+
+--- 
+
 # Awesome SurrealDB
 
 <!--lint ignore double-link-->
 A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources, tools, utilities, and applications.
 
-If you want to contribute to this list, then please read the [contributing guidelines](https://github.com/surrealdb/awesome-surreal/blob/main/CONTRIBUTING.md).
 
 ## Contents
 
