@@ -82,7 +82,7 @@
   </p>
 </div>
 
---- 
+---
 
 # Awesome SurrealDB
 
@@ -106,6 +106,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
+- [Projects for SurrealDB v2](#projects-for-surrealdb-v2)
 
 ## Applications
 
@@ -127,7 +128,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Surrealist](https://github.com/surrealdb/surrealist) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official dashboard, query playground and database explorer for SurrealDB.
 
 ## Development tools
-- [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB Typescript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
+- [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB TypeScript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
 - [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients.
 
 ## Deployment tools
@@ -186,15 +187,15 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 ## Projects
 
-- [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex
+- [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
+- [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
 
-## Projects (SurrealDB v1 & v2)
+## Projects for SurrealDB v2
 - [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
 - [Gofer Engine](https://github.com/gofer-engine/gofer-engine) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
 - [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
 - [MECOMP](https://github.com/AnthonyMichaelTDM/mecomp) - A local music player that uses surrealdb as the backend, features song similarity searches ("find songs similar to this song/album/artist/playlist"), song clustering, and other fun things.
-- [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project.
+- [Next.js + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your Next.js + surrealdb project.
 - [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
 - [Style Guide AI Assistant](https://github.com/lalanikarim/style-guide-ai-assistant) - A voice enabled AI assistant that lets you talk to your wardrobe.
 - [Surreal-4o Fine-tuned Model Datasets for SurrealQL Queries](https://github.com/sFritsch09/surreal-4o) - Project to create structured datasets for OpenAI to fine-tune o3-mini for generating text in SurrealQL.
