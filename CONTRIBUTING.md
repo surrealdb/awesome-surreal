@@ -12,7 +12,8 @@ When adding a new entry to the `README.md` file, please ensure the following:
 
 1. Please ensure that your entry is categorised under the relevant section.
 2. Please ensure that your entry adheres to the alphabetical ordering.
-3. Please ensure that your entry uses the following markdown template:
+3. Please ensure that your entry uses SurrealDB v3.0 and above.
+4. Please ensure that your entry uses the following markdown template:
 
 	```md
 	- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
