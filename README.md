@@ -106,6 +106,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
+- [LangChain AI Agents](#langchain-ai-agents)
 - [Projects for SurrealDB v2](#projects-for-surrealdb-v2)
 
 ## Applications
@@ -189,6 +190,11 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 - [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 - [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
+
+## LangChain AI Agents
+
+- [synapse](https://github.com/jawciu/synapse) - Turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.
+- [taro](https://github.com/j-d0g/taro) - Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF).
 
 ## Projects for SurrealDB v2
 - [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
