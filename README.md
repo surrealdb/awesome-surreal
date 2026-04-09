@@ -65,13 +65,7 @@
 
 ---
 
-<div align="center">
-  <h2>🚨 Important 🚨</h2>
-  
-  <p>
-    <strong> We're moving Awesome Surreal content to <a href="https://surrealdb.com/docs/labs"> Surreal Labs!</a></strong>
-  </p>
-  
+<div align="center">  
   <p>
     <em>Got a community project? Add it to awesome-surreal and submit it to <a href= "https://surrealdb.com/docs/labs">Surreal Labs</a>, our portal for demos, tutorials, etc. Please follow our new  <a href="https://github.com/surrealdb/docs.surrealdb.com?tab=readme-ov-file#contributing-to-the-documentation">Lab Contribution Guide</a>.</em>
   </p>
