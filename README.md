@@ -73,12 +73,7 @@
   </p>
   
   <p>
-    To contribute your SurrealDB projects, tools, or resources, please follow our new 
-    <a href="https://github.com/surrealdb/docs.surrealdb.com?tab=readme-ov-file#contributing-to-the-documentation">Lab Contribution Guide</a>.
-  </p>
-  
-  <p>
-    <em>This repository will be archived soon. All new content should be <a href= "https://github.com/surrealdb/docs.surrealdb.com/tree/main/src/content/labs-items"> submitted to Surreal Labs. </a></em>
+    <em>Got a community project? Add it to awesome-surreal and submit it to <a href= "https://surrealdb.com/docs/labs">Surreal Labs</a>, our portal for demos, tutorials, etc. Please follow our new  <a href="https://github.com/surrealdb/docs.surrealdb.com?tab=readme-ov-file#contributing-to-the-documentation">Lab Contribution Guide</a>.</em>
   </p>
 </div>
 
@@ -94,8 +89,9 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 <!-- no toc -->
 - [Applications](#applications)
-- [Client libraries](#client-libraries)
+- [Official SDKs](#official-sdks)
 - [Management interfaces](#management-interfaces)
+- [Client libraries](#client-libraries)
 - [Development tools](#development-tools)
 - [Deployment tools](#deployment-tools)
 - [Docker images](#docker-images)
@@ -107,15 +103,13 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Videos](#videos)
 - [Projects](#projects)
 - [LangChain AI Agents](#langchain-ai-agents)
-- [Projects for SurrealDB v2](#projects-for-surrealdb-v2)
 
 ## Applications
 
 <!--lint ignore double-link-->
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
 
-## Client libraries
-- [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
+## Official SDKs
 - [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for C.
 - [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Golang.
 - [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Java.
@@ -127,6 +121,9 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 ## Management interfaces
 - [Surrealist](https://github.com/surrealdb/surrealist) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official dashboard, query playground and database explorer for SurrealDB.
+
+## Client libraries
+- [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
 
 ## Development tools
 - [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB TypeScript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
@@ -196,19 +193,3 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [taro](https://github.com/j-d0g/taro) - Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF).
 - [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) - Navigate any Python codebase via knowledge graph + resumable LangGraph agents, powered by SurrealDB.
 - [synapse](https://github.com/jawciu/synapse) - Turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.
-
-## Projects for SurrealDB v2
-- [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
-- [Gofer Engine](https://github.com/gofer-engine/gofer-engine) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
-- [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
-- [MECOMP](https://github.com/AnthonyMichaelTDM/mecomp) - A local music player that uses surrealdb as the backend, features song similarity searches ("find songs similar to this song/album/artist/playlist"), song clustering, and other fun things.
-- [Next.js + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your Next.js + surrealdb project.
-- [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
-- [Style Guide AI Assistant](https://github.com/lalanikarim/style-guide-ai-assistant) - A voice enabled AI assistant that lets you talk to your wardrobe.
-- [Surreal-4o Fine-tuned Model Datasets for SurrealQL Queries](https://github.com/sFritsch09/surreal-4o) - Project to create structured datasets for OpenAI to fine-tune o3-mini for generating text in SurrealQL.
-- [SurrealDB AI Docs Retrieval](https://github.com/truskovskiyk/surrealdb-docs-retrieval) - Project to showcase: How to build a GPT-Based question-answering system on top of SurrealDB Docs. Utilizing SurrealDB as a vector store itself.
-- [SurrealDB as a Vector Store for LangChain](https://github.com/lalanikarim/notebooks/blob/main/SurrealDB-Langchain.ipynb) - A Jupyter notebook demonstrating how to use SurrealDB as a Vector Store when building Generative AI applications with LangChain.
-- [SurrealDB Presence Demo](https://github.com/Odonno/surrealdb-presence-demo) - Demo project on how to create a realtime presence web application using SurrealDB Live Queries.
-- [SurrealDB Sandbox](https://github.com/plasmatech8/surrealdb-sandbox) - An offline browser-based playground for experimenting with SurrealDB.
-- [SurrealDB x OpenAI](https://github.com/Ce11an/surrealdb-openai) - Example of RAG using SurrealDB and OpenAI.
-- [SurrealML vs PyTorch vs ONNX](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main) - Benchmarking the performance of SurrealML against PyTorch and ONNX - [Vladimir Rotariu](https://github.com/vladimirrotariu)
