@@ -90,8 +90,8 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 <!-- no toc -->
 - [Applications](#applications)
 - [Official SDKs](#official-sdks)
-- [Client libraries](#client-libraries)
 - [Management interfaces](#management-interfaces)
+- [Client libraries](#client-libraries)
 - [Development tools](#development-tools)
 - [Deployment tools](#deployment-tools)
 - [Docker images](#docker-images)
@@ -120,11 +120,11 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
 - [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
 
-## Client libraries
-- [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
-
 ## Management interfaces
 - [Surrealist](https://github.com/surrealdb/surrealist) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official dashboard, query playground and database explorer for SurrealDB.
+
+## Client libraries
+- [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
 
 ## Development tools
 - [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB TypeScript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
