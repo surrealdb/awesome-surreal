@@ -103,7 +103,6 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Videos](#videos)
 - [Projects](#projects)
 - [LangChain AI Agents](#langchain-ai-agents)
-- [Projects for SurrealDB v2](#projects-for-surrealdb-v2)
 
 ## Applications
 
@@ -193,19 +192,3 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 - [synapse](https://github.com/jawciu/synapse) - Turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.
 - [taro](https://github.com/j-d0g/taro) - Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF).
-
-## Projects for SurrealDB v2
-- [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
-- [Gofer Engine](https://github.com/gofer-engine/gofer-engine) - An HL7 (Healthcare Level 7) Interface Engine built to deploy on Node.js servers that provides SurrealDB as a persistance layer option.
-- [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
-- [MECOMP](https://github.com/AnthonyMichaelTDM/mecomp) - A local music player that uses surrealdb as the backend, features song similarity searches ("find songs similar to this song/album/artist/playlist"), song clustering, and other fun things.
-- [Next.js + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your Next.js + surrealdb project.
-- [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
-- [Style Guide AI Assistant](https://github.com/lalanikarim/style-guide-ai-assistant) - A voice enabled AI assistant that lets you talk to your wardrobe.
-- [Surreal-4o Fine-tuned Model Datasets for SurrealQL Queries](https://github.com/sFritsch09/surreal-4o) - Project to create structured datasets for OpenAI to fine-tune o3-mini for generating text in SurrealQL.
-- [SurrealDB AI Docs Retrieval](https://github.com/truskovskiyk/surrealdb-docs-retrieval) - Project to showcase: How to build a GPT-Based question-answering system on top of SurrealDB Docs. Utilizing SurrealDB as a vector store itself.
-- [SurrealDB as a Vector Store for LangChain](https://github.com/lalanikarim/notebooks/blob/main/SurrealDB-Langchain.ipynb) - A Jupyter notebook demonstrating how to use SurrealDB as a Vector Store when building Generative AI applications with LangChain.
-- [SurrealDB Presence Demo](https://github.com/Odonno/surrealdb-presence-demo) - Demo project on how to create a realtime presence web application using SurrealDB Live Queries.
-- [SurrealDB Sandbox](https://github.com/plasmatech8/surrealdb-sandbox) - An offline browser-based playground for experimenting with SurrealDB.
-- [SurrealDB x OpenAI](https://github.com/Ce11an/surrealdb-openai) - Example of RAG using SurrealDB and OpenAI.
-- [SurrealML vs PyTorch vs ONNX](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main) - Benchmarking the performance of SurrealML against PyTorch and ONNX - [Vladimir Rotariu](https://github.com/vladimirrotariu)
