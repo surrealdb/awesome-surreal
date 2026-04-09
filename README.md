@@ -190,5 +190,6 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 ## LangChain AI Agents
 
-- [synapse](https://github.com/jawciu/synapse) - Turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.
 - [taro](https://github.com/j-d0g/taro) - Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF).
+- [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) - Navigate any Python codebase via knowledge graph + resumable LangGraph agents, powered by SurrealDB.
+- [synapse](https://github.com/jawciu/synapse) - Turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.
