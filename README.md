@@ -73,12 +73,7 @@
   </p>
   
   <p>
-    To contribute your SurrealDB projects, tools, or resources, please follow our new 
-    <a href="https://github.com/surrealdb/docs.surrealdb.com?tab=readme-ov-file#contributing-to-the-documentation">Lab Contribution Guide</a>.
-  </p>
-  
-  <p>
-    <em>This repository will be archived soon. All new content should be <a href= "https://github.com/surrealdb/docs.surrealdb.com/tree/main/src/content/labs-items"> submitted to Surreal Labs. </a></em>
+    <em>Got a community project? Add it to awesome-surreal and submit it to <a href= "https://surrealdb.com/docs/labs">Surreal Labs</a>, our portal for demos, tutorials, etc. Please follow our new  <a href="https://github.com/surrealdb/docs.surrealdb.com?tab=readme-ov-file#contributing-to-the-documentation">Lab Contribution Guide</a>.</em>
   </p>
 </div>
 
@@ -94,6 +89,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 <!-- no toc -->
 - [Applications](#applications)
+- [Official SDKs](#official-sdks)
 - [Client libraries](#client-libraries)
 - [Management interfaces](#management-interfaces)
 - [Development tools](#development-tools)
@@ -114,8 +110,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 <!--lint ignore double-link-->
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
 
-## Client libraries
-- [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
+## Official SDKs
 - [surrealdb.c](https://github.com/surrealdb/surrealdb.c) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for C.
 - [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Golang.
 - [surrealdb.java](https://github.com/surrealdb/surrealdb.java) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Java.
@@ -124,6 +119,9 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [surrealdb.php](https://github.com/surrealdb/surrealdb.php) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for PHP.
 - [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
 - [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
+
+## Client libraries
+- [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
 
 ## Management interfaces
 - [Surrealist](https://github.com/surrealdb/surrealist) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official dashboard, query playground and database explorer for SurrealDB.
@@ -193,9 +191,8 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 ## LangChain AI Agents
 
-- [taro](https://github.com/j-d0g/taro) - Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF).
-- [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) - Navigate any Python codebase via knowledge graph + resumable LangGraph agents, powered by SurrealDB.
 - [synapse](https://github.com/jawciu/synapse) - Turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.
+- [taro](https://github.com/j-d0g/taro) - Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF).
 
 ## Projects for SurrealDB v2
 - [DOX For Everything](https://github.com/tcm151/dox) - An online forum for discussions, questions and answers, fan pages, blogs, or anything else. 
