@@ -145,6 +145,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [surrealdb-valibot](https://github.com/ShadowWolf308/surrealdb-valibot) - Re-usable valibot schema's for use with the JavaScript SDK.
 - [surrealdb-zod](https://github.com/ShadowWolf308/surrealdb-zod) - Re-usable zod schema's for use with the JavaScript SDK.
 - [surrealist](https://github.com/kotolex/surrealist) - Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).
+- [surreal-fs](https://jsr.io/@hviana/surreal-fs) - Store, stream, and manage files of any size using SurrealDB as the backend — with 64 KB chunked storage, configurable rate limiting, multi-factor concurrency control, and a crash-resilient garbage collector.
 
 ## GitHub Actions
 - [SurrealDB GitHub Action](https://github.com/marketplace/actions/surrealdb-in-github-action) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official GitHub Action to use SurrealDB in GitHub Continuous Integration pipelines.
