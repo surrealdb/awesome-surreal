@@ -181,6 +181,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 - [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 - [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
+- [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 
 ## LangChain AI Agents
 
