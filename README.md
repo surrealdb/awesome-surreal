@@ -93,7 +93,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Libraries](#libraries)
 - [GitHub Actions](#github-actions)
 - [Starter Kits](#starter-kits)
-- [Surrealism extensions](#surrealism-extensions)
+- [Surrealism Extensions](#surrealism-extensions)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
