@@ -156,7 +156,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [SurrealDB + SvelteKit Auth Example](https://github.com/AlbertMarashi/surrealdb-svelte-auth-template) - A JWT-based authentication example with globally available, universal request-isolated database example implementation - Albert Marashi.
 - [SurrealDB + Vue Blog Starter](https://github.com/SrWither/surrealdb-vuejs) - SrWither.
 
-## Extentions
+## Surrealism Extentions
 - [try_cast](https://git.gay/buj/surreal-try-cast) - `mod::try_*` functions for checked type casts.
 
 ## Tutorials
