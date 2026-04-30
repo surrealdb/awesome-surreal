@@ -93,6 +93,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Libraries](#libraries)
 - [GitHub Actions](#github-actions)
 - [Starter Kits](#starter-kits)
+- [Surrealism extensions](#surrealism-extensions)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
@@ -140,6 +141,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [allographer](https://github.com/itsumura-h/nim-allographer) - A query builder and schema builder for Nim that also supports SurrealDB.
 - [AspNetCore.HealthChecks.SurrealDb](https://www.nuget.org/packages/AspNetCore.HealthChecks.SurrealDb/) - ASP.NET Core Health Check that verifies the ability to communicate with SurrealDb.
 - [CommunityToolkit.Aspire.Hosting.SurrealDb](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.SurrealDb) - Provides extension methods and resource definitions for the .NET Aspire AppHost to support running SurrealDB containers.
+- [java-surrealrpc](https://git.gay/buj/java-surrealrpc) - An alternative small Java SurrealDB library.
 - [surrealdb_extra](https://github.com/jakin010/surrealdb_extra) - (Rust) - Query builder and orm.
 - [surrealdb-extras](https://docs.rs/surrealdb-extras/latest/surrealdb_extras/) - (Rust) Creates namespace, database, tables and defines attributes automatically and generates/adds functions like add/delete/update to the struct.
 - [surrealdb-valibot](https://github.com/ShadowWolf308/surrealdb-valibot) - Re-usable valibot schema's for use with the JavaScript SDK.
@@ -153,6 +155,9 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97).
 - [SurrealDB + SvelteKit Auth Example](https://github.com/AlbertMarashi/surrealdb-svelte-auth-template) - A JWT-based authentication example with globally available, universal request-isolated database example implementation - Albert Marashi.
 - [SurrealDB + Vue Blog Starter](https://github.com/SrWither/surrealdb-vuejs) - SrWither.
+
+## Extentions
+- [try_cast](https://git.gay/buj/surreal-try-cast) - `mod::try_*` functions for checked type casts.
 
 ## Tutorials
 - [Aeon's Surreal Renaissance](https://surrealdb.com/learn/book/) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official book for in-depth learning through storytelling.
