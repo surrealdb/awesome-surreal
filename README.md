@@ -114,6 +114,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
 
 ## Management interfaces
+- [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench for SurrealDB 3.2+ with SurrealQL, document/graph browsing, schema tools, and native archives.
 - [Surrealist](https://github.com/surrealdb/surrealist) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official dashboard, query playground and database explorer for SurrealDB.
 
 ## Client libraries
