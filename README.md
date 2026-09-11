@@ -122,6 +122,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 ## Development tools
 - [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB TypeScript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
 - [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients.
+- [SurrealDb.Net.Design](https://github.com/NodKane/surrealdb.net.design) - An design-time CLI for generating C# record models from a SurrealDB database schema. Get it via [Nuget](https://www.nuget.org/packages/SurrealDb.Net.Design)
 
 ## Deployment tools
 - [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
