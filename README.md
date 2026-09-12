@@ -183,6 +183,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 ## Projects
 
+- [Inite Brain](https://github.com/inite-ai/inite-brain-service) - Open-source memory layer for LLM agents built on SurrealDB. Bitemporal knowledge graph with facts/episodes/procedural tiers, hybrid vector + BM25 + multi-hop retrieval, conflict resolution, GDPR forget. MCP server, Streamable HTTP, AGPL-3.0.
 - [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 - [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
 
