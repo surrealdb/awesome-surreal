@@ -93,6 +93,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [Libraries](#libraries)
 - [GitHub Actions](#github-actions)
 - [Starter Kits](#starter-kits)
+- [Surrealism Extensions](#surrealism-extensions)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Projects](#projects)
@@ -114,6 +115,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
 
 ## Management interfaces
+- [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench for SurrealDB 3.2+ with SurrealQL, document/graph browsing, schema tools, and native archives.
 - [Surrealist](https://github.com/surrealdb/surrealist) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official dashboard, query playground and database explorer for SurrealDB.
 
 ## Client libraries
@@ -122,6 +124,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 ## Development tools
 - [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB TypeScript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
 - [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients.
+- [SurrealDb.Net.Design](https://github.com/NodKane/surrealdb.net.design) - An design-time CLI for generating C# record models from a SurrealDB database schema. Get it via [Nuget](https://www.nuget.org/packages/SurrealDb.Net.Design)
 
 ## Deployment tools
 - [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
@@ -131,6 +134,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 [surrealdb/surrealdb](https://hub.docker.com/r/surrealdb/surrealdb) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official Docker image.
 
 ## Integrations
+- [surreal-better-auth](https://github.com/oskar-gmerek/surreal-better-auth) - SurrealDB adapter for [Better-Auth](https://better-auth.com) - [Oskar Gmerek](https://oskargmerek.com)
 - [SurrealDB Document Loader for LangChain](https://python.langchain.com/docs/integrations/document_loaders/surrealdb) - A simple [document loader](https://python.langchain.com/docs/modules/data_connection/document_loaders/) implementation around SurrealDB for [LangChain](https://www.langchain.com/).
 - [SurrealDB Vector Store for LangChain](https://python.langchain.com/docs/integrations/vectorstores/surrealdb) - Use SurrealDB as a [vector store backed retriever](https://python.langchain.com/docs/modules/data_connection/retrievers/vectorstore) within LangChain to build rich Generative AI applications with Large Language Models.
 - [SurrealDB Grafana datasource](https://github.com/grafana/surrealdb-datasource) - The SurrealDB datasource plugin enables you to query and visualise SurrealDB data directly within Grafana, offering seamless integration and exploration of SurrealDB datasets.
@@ -140,12 +144,14 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [allographer](https://github.com/itsumura-h/nim-allographer) - A query builder and schema builder for Nim that also supports SurrealDB.
 - [AspNetCore.HealthChecks.SurrealDb](https://www.nuget.org/packages/AspNetCore.HealthChecks.SurrealDb/) - ASP.NET Core Health Check that verifies the ability to communicate with SurrealDb.
 - [CommunityToolkit.Aspire.Hosting.SurrealDb](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.SurrealDb) - Provides extension methods and resource definitions for the .NET Aspire AppHost to support running SurrealDB containers.
+- [java-surrealrpc](https://git.gay/buj/java-surrealrpc) - An alternative small Java SurrealDB library.
 - [surrealdb_extra](https://github.com/jakin010/surrealdb_extra) - (Rust) - Query builder and orm.
 - [surrealdb-extras](https://docs.rs/surrealdb-extras/latest/surrealdb_extras/) - (Rust) Creates namespace, database, tables and defines attributes automatically and generates/adds functions like add/delete/update to the struct.
 - [surrealdb-valibot](https://github.com/ShadowWolf308/surrealdb-valibot) - Re-usable valibot schema's for use with the JavaScript SDK.
 - [surrealdb-zod](https://github.com/ShadowWolf308/surrealdb-zod) - Re-usable zod schema's for use with the JavaScript SDK.
 - [surrealist](https://github.com/kotolex/surrealist) - Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).
 - [surreal-fs](https://jsr.io/@hviana/surreal-fs) - Store, stream, and manage files of any size using SurrealDB as the backend — with 64 KB chunked storage, configurable rate limiting, multi-factor concurrency control, and a crash-resilient garbage collector.
+- [sqlalchemy-surrealdb](https://github.com/noctisynth/sqlalchemy-surrealdb) - A SQLAlchemy dialect for SurrealDB.
 
 ## GitHub Actions
 - [SurrealDB GitHub Action](https://github.com/marketplace/actions/surrealdb-in-github-action) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official GitHub Action to use SurrealDB in GitHub Continuous Integration pipelines.
@@ -154,6 +160,9 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [SurrealDB + Go Driver Starter](https://github.com/sbshah97/surrealdb-go-starter-project) - [Salman Shah](https://github.com/sbshah97).
 - [SurrealDB + SvelteKit Auth Example](https://github.com/AlbertMarashi/surrealdb-svelte-auth-template) - A JWT-based authentication example with globally available, universal request-isolated database example implementation - Albert Marashi.
 - [SurrealDB + Vue Blog Starter](https://github.com/SrWither/surrealdb-vuejs) - SrWither.
+
+## Surrealism Extensions
+- [try_cast](https://git.gay/buj/surreal-try-cast) - `mod::try_*` functions for checked type casts.
 
 ## Tutorials
 - [Aeon's Surreal Renaissance](https://surrealdb.com/learn/book/) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official book for in-depth learning through storytelling.
@@ -180,6 +189,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 ## Projects
 
+- [Inite Brain](https://github.com/inite-ai/inite-brain-service) - Open-source memory layer for LLM agents built on SurrealDB. Bitemporal knowledge graph with facts/episodes/procedural tiers, hybrid vector + BM25 + multi-hop retrieval, conflict resolution, GDPR forget. MCP server, Streamable HTTP, AGPL-3.0.
 - [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 - [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
 
