@@ -162,6 +162,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 
 ## Surrealism Extensions
 - [try_cast](https://git.gay/buj/surreal-try-cast) - `mod::try_*` functions for checked type casts.
+- [s3](https://github.com/yuunalein/surreal-s3) - Implements advanced S3 functionality, including pre-signed URLs and multipart uploads.
 
 ## Tutorials
 - [Aeon's Surreal Renaissance](https://surrealdb.com/learn/book/) - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official book for in-depth learning through storytelling.
