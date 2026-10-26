@@ -122,6 +122,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) resources,
 - [surrealdb-flutter](https://github.com/duhanbalci/surrealdb_flutter) - Client library for [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
 
 ## Development tools
+- [Surform](https://github.com/jquesada2016/surform) - A declarative schema definition language for SurrealDB: compiles a schema file to SurrealQL DDL, diffs it against the live database, and ships a formatter, linter, and migration pipeline.
 - [surreal-codegen](https://github.com/siteforge-io/surreal-codegen) - SurrealDB TypeScript type-safe client generator which extends the official SurrealDB package. Matches your raw `.surql` queries against your schema to generate strongly typed queries & parameters.
 - [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - A handy tool that simplifies the process of generating zod schemas and TypeScript clients.
 - [SurrealDb.Net.Design](https://github.com/NodKane/surrealdb.net.design) - An design-time CLI for generating C# record models from a SurrealDB database schema. Get it via [Nuget](https://www.nuget.org/packages/SurrealDb.Net.Design)
