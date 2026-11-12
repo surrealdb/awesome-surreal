@@ -1,0 +1,11 @@
+title: java-surrealrpc
+url: https://git.gay/buj/java-surrealrpc
+description: Small alternative Java client.
+section: community-client-libraries
+author:
+  name: buj
+date: 2026-09-14
+stage: Build
+format: Source code
+languages:
+  - Java

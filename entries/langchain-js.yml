@@ -1,0 +1,12 @@
+title: langchain.js
+url: https://github.com/surrealdb/langchain.js
+description: Official LangGraph.js adapter for SurrealDB and Agent Memory.
+section: ai-and-agents
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+topics:
+  - AI
+languages:
+  - TypeScript

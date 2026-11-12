@@ -1,0 +1,14 @@
+title: surrealdb.js
+url: https://github.com/surrealdb/surrealdb.js
+section: official-sdks
+position: 1
+sdk:
+  language: JavaScript
+  docs: https://surrealdb.com/docs/reference/javascript
+  install: "`npm install surrealdb`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+languages:
+  - TypeScript

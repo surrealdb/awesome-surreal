@@ -1,0 +1,11 @@
+title: AspNetCore.HealthChecks.SurrealDb
+url: https://www.nuget.org/packages/AspNetCore.HealthChecks.SurrealDb
+description: ASP.NET Core health check for SurrealDB connectivity.
+section: deployment-and-operations
+author:
+  name: David Bottiau
+  role: Software Engineer
+  avatar: david-bottiau
+date: 2025-08-01
+stage: Operate
+format: Source code

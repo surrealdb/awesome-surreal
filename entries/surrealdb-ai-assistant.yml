@@ -1,0 +1,13 @@
+title: SurrealDB AI assistant
+url: https://surrealdb-ai.jimpex.dev/
+description: Web assistant that explores a SurrealDB database in natural language.
+section: demos
+author:
+  name: Jimpex
+  role: Software Engineer
+  avatar: jimpex
+date: 2025-11-21
+stage: Prototype
+format: Source code
+topics:
+  - AI

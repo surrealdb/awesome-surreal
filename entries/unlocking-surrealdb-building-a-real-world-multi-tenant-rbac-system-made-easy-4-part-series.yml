@@ -1,0 +1,16 @@
+title: Multi-tenant RBAC with SurrealDB
+url: https://dev.to/sebastian_wessel/series/24535
+description: Four-part series on tenants, roles, and permissions as a graph.
+section: tutorials-and-articles
+recipe:
+  title: Multi-tenant role-based access
+  url: https://surrealdb.com/docs/explore/tutorials/cookbook/multi-tenant-rbac
+author:
+  name: Sebastian Wessel
+  role: Software Engineer
+  avatar: sebastian-wessel
+date: 2025-06-06
+stage: Learn
+format: Article
+topics:
+  - Security

@@ -1,0 +1,14 @@
+title: taro
+url: https://github.com/j-d0g/taro
+description: "Agentic search harness: a LangGraph ReAct agent with vector, BM25, graph, and hybrid search tools."
+section: projects
+author:
+  name: Jordan Tran
+  github: j-d0g
+date: 2026-04-08
+stage: Prototype
+format: Source code
+topics:
+  - AI
+languages:
+  - Python

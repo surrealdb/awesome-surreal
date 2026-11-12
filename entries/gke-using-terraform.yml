@@ -1,0 +1,11 @@
+title: GKE using Terraform
+url: https://github.com/dvanmali/terraform-google-surrealdb
+description: Multi-cluster, cross-region deployment on GKE Autopilot with Terraform.
+section: deployment-and-operations
+author:
+  name: Dylan Vanmali
+  role: Software Engineer
+  avatar: dylan-vanmali
+date: 2025-06-06
+stage: Operate
+format: Source code

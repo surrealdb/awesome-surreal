@@ -1,0 +1,14 @@
+title: surreal-better-auth
+url: https://github.com/oskar-gmerek/surreal-better-auth
+description: SurrealDB adapter for Better Auth.
+section: authentication
+author:
+  name: Oskar Gmerek
+  github: oskar-gmerek
+date: 2026-09-12
+stage: Build
+format: Source code
+topics:
+  - Security
+languages:
+  - TypeScript

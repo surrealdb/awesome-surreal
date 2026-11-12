@@ -1,0 +1,15 @@
+title: SurrealDB AI docs retrieval
+url: https://github.com/truskovskiyk/surrealdb-docs-retrieval
+description: Question answering over the SurrealDB documentation with a GPT model.
+section: demos
+author:
+  name: Kyryl Truskovskyi
+  role: Machine Learning Engineer
+  avatar: kyryl-truskovskyi
+date: 2025-06-06
+stage: Prototype
+format: Source code
+topics:
+  - AI
+languages:
+  - Python

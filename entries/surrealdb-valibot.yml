@@ -1,0 +1,11 @@
+title: surrealdb-valibot
+url: https://github.com/ShadowWolf308/surrealdb-valibot
+description: Reusable Valibot schemas for the JavaScript SDK.
+section: orms-and-query-builders
+author:
+  name: Levy van der Valk
+  role: Web Developer
+  avatar: levy-van-der-valk
+date: 2025-06-06
+stage: Build
+format: Source code

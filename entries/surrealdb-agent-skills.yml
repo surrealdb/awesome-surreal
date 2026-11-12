@@ -1,0 +1,16 @@
+title: Agent skills
+url: https://github.com/surrealdb/agent-skills
+description: Official skills that teach coding agents SurrealQL and Agent Memory.
+section: ai-and-agents
+links:
+  - title: Documentation
+    url: https://surrealdb.com/docs/build/ai-agents/agent-skills
+author:
+  name: Martin Schaer
+  role: AI engineer
+  avatar: martin-schaer
+date: 2026-11-02
+stage: Build
+format: Source code
+topics:
+  - AI

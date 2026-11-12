@@ -1,0 +1,13 @@
+title: SurrealDB Grafana datasource
+url: https://github.com/grafana/surrealdb-datasource
+description: Query and chart SurrealDB data from Grafana.
+section: deployment-and-operations
+author:
+  name: Grafana Labs
+  role: Observability
+  avatar: grafana
+date: 2025-06-06
+stage: Operate
+format: Source code
+topics:
+  - Data management

@@ -1,0 +1,79 @@
+# The sections of the README, in order. Each entry in entries/ names one of the
+# leaf sections below by its id. A section's title is its README heading.
+
+- id: start-here
+  title: Start here
+
+- id: official-sdks
+  title: Official SDKs
+  layout: table
+
+- id: tools
+  title: Tools
+  sections:
+    - id: management-interfaces
+      title: Management interfaces
+    - id: schema-and-code-generation
+      title: Schema and code generation
+    - id: orms-and-query-builders
+      title: ORMs and query builders
+    - id: data-movement
+      title: Data movement
+    - id: deployment-and-operations
+      title: Deployment and operations
+
+- id: community-client-libraries
+  title: Community client libraries
+
+- id: integrations
+  title: Integrations
+  sections:
+    - id: ai-and-agents
+      title: AI and agents
+    - id: authentication
+      title: Authentication
+    - id: frameworks-and-platforms
+      title: Frameworks and platforms
+
+- id: extensions
+  title: Extensions
+
+- id: example-applications
+  title: Example applications
+  sections:
+    - id: starter-projects
+      title: Starter projects
+      credit: true
+    - id: demos
+      title: Demos
+      credit: true
+    - id: interactive-demos
+      title: Interactive demos
+
+- id: projects
+  title: Projects built on SurrealDB
+
+- id: learning
+  title: Learning
+  sections:
+    - id: courses-and-books
+      title: Courses and books
+    - id: tutorials-and-articles
+      title: Tutorials and articles
+      credit: true
+    - id: videos
+      title: Videos
+      credit: true
+      groupsIntro: "From the [SurrealDB YouTube channel](https://www.youtube.com/@SurrealDB):"
+      groups:
+        - id: data-modelling
+          title: Data modelling and SurrealQL
+        - id: sdks-and-engines
+          title: SDKs and engines
+        - id: studio
+          title: SurrealDB Studio
+        - id: cloud
+          title: SurrealDB Cloud
+    - id: talks-and-presentations
+      title: Talks and presentations
+      credit: true

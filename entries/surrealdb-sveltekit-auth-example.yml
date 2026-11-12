@@ -1,0 +1,16 @@
+title: SurrealDB + SvelteKit auth example
+url: https://github.com/AlbertMarashi/surrealdb-svelte-auth-template
+description: JWT authentication with a request-scoped database connection.
+section: starter-projects
+author:
+  name: Albert Marashi
+  role: Software Engineer
+  github: AlbertMarashi
+  avatar: albert-marashi
+date: 2025-01-07
+stage: Prototype
+format: Source code
+topics:
+  - Security
+languages:
+  - TypeScript

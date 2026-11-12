@@ -1,0 +1,10 @@
+title: langchain-surrealdb
+url: https://github.com/surrealdb/langchain-surrealdb
+description: Official LangChain integration for vector search and graph queries.
+section: ai-and-agents
+author: surrealdb
+date: 2025-06-06
+stage: Build
+format: Source code
+topics:
+  - AI

@@ -1,0 +1,11 @@
+title: surrealdb-extras
+url: https://docs.rs/surrealdb-extras/latest/surrealdb_extras/
+description: Rust helpers that define namespaces, databases, and tables, and derive CRUD functions for structs.
+section: orms-and-query-builders
+author:
+  name: Frederik Uni
+  role: Software Engineer
+  avatar: frederik-uni
+date: 2025-06-06
+stage: Build
+format: Documentation
