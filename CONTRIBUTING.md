@@ -40,7 +40,7 @@ languages:
 | `url`         | Yes      | Where it lives.                                                                                                             |
 | `description` | Usually  | One sentence that starts with a capital letter and ends with a full stop. Do not repeat the title.                          |
 | `section`     | Yes      | The id of a section in [`sections.yml`](sections.yml), such as `starter-projects` or `tutorials-and-articles`.              |
-| `author`      | Yes      | `name`, and optionally `github` (your username) and `role` (such as `Software Engineer`).                                   |
+| `author`      | Yes      | `name`, and optionally `github` (your username, for the photo on your Labs card) and `role` (such as `Software Engineer`).   |
 | `date`        | Yes      | The date you add the entry, as `YYYY-MM-DD`.                                                                                |
 | `stage`       | Yes      | `Explore`, `Learn`, `Prototype`, `Build`, or `Operate`: where a reader is when this is useful.                              |
 | `format`      | Yes      | `Source code`, `Video`, `Article`, `Documentation`, `Interactive demo`, or `Presentation`.                                  |
