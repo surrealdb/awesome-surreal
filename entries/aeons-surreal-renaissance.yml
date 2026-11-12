@@ -1,0 +1,10 @@
+title: Aeon's Surreal Renaissance
+url: https://surrealdb.com/learn/book
+description: Official book that teaches SurrealDB through a story.
+section: courses-and-books
+author: surrealdb
+date: 2026-11-12
+stage: Learn
+format: Documentation
+languages:
+  - SurrealQL

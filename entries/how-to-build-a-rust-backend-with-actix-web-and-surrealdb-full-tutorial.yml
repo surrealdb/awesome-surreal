@@ -1,0 +1,10 @@
+title: Build a Rust back end with Actix Web and SurrealDB
+url: https://www.youtube.com/watch?v=Rnw-x21kGaA
+section: videos
+group: sdks-and-engines
+author: surrealdb
+date: 2026-01-12
+stage: Learn
+format: Video
+languages:
+  - Rust

@@ -1,0 +1,13 @@
+title: UnrealORM
+url: https://unreal-orm.jimpex.dev
+description: TypeScript ORM designed around SurrealDB models and relations.
+section: orms-and-query-builders
+author:
+  name: Jimpex
+  role: Software Engineer
+  avatar: jimpex
+date: 2025-11-21
+stage: Build
+format: Source code
+topics:
+  - Data management

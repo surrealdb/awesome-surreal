@@ -1,0 +1,13 @@
+title: SurrealDB + Go starter
+url: https://github.com/sbshah97/surrealdb-go-starter-project
+description: Application skeleton using the official Go SDK.
+section: starter-projects
+author:
+  name: Salman Shah
+  role: Software Engineer
+  avatar: salman-shah
+date: 2025-06-06
+stage: Prototype
+format: Source code
+languages:
+  - Go

@@ -1,0 +1,13 @@
+title: CLI phone book in Python
+url: https://python.code-maven.com/surrealdb-python-cli-phonebook
+description: Command-line phone book backed by SurrealDB.
+section: tutorials-and-articles
+author:
+  name: Gabor Szabo
+  role: Software Engineer
+  avatar: gabor-szabo
+date: 2025-06-06
+stage: Learn
+format: Source code
+topics:
+  - Data management

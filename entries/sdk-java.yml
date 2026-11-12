@@ -1,0 +1,14 @@
+title: surrealdb.java
+url: https://github.com/surrealdb/surrealdb.java
+section: official-sdks
+position: 5
+sdk:
+  language: Java
+  docs: https://surrealdb.com/docs/reference/java
+  install: "`com.surrealdb:surrealdb`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+languages:
+  - Java

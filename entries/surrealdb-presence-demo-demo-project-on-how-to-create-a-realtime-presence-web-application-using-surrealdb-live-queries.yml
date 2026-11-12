@@ -1,0 +1,11 @@
+title: SurrealDB presence demo
+url: https://github.com/Odonno/surrealdb-presence-demo
+description: Real-time presence with live queries.
+section: demos
+author:
+  name: David Bottiau
+  role: Software Engineer
+  avatar: david-bottiau
+date: 2025-06-06
+stage: Prototype
+format: Source code

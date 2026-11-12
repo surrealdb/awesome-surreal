@@ -1,0 +1,13 @@
+title: Getting started with SurrealDB using Python and Docker
+url: https://python.code-maven.com/surrealdb-getting-started
+description: Run SurrealDB in Docker and connect from Python.
+section: tutorials-and-articles
+author:
+  name: Gabor Szabo
+  role: Software Engineer
+  avatar: gabor-szabo
+date: 2025-06-06
+stage: Learn
+format: Source code
+languages:
+  - Python

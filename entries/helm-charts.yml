@@ -1,0 +1,10 @@
+title: Helm charts
+url: https://github.com/surrealdb/helm-charts
+description: Official Helm charts for running SurrealDB on Kubernetes.
+section: deployment-and-operations
+author: surrealdb
+date: 2026-11-12
+stage: Operate
+format: Source code
+topics:
+  - Cloud

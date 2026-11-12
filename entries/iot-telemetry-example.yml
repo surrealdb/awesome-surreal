@@ -1,0 +1,16 @@
+title: IoT telemetry
+url: https://github.com/surrealdb/example-iot-telemetry
+description: Simulated sensors, time-windowed queries, and outlier alerts, with a live dashboard.
+section: demos
+recipe:
+  title: IoT telemetry with outlier alerts
+  url: https://surrealdb.com/docs/explore/tutorials/cookbook/iot-telemetry
+author:
+  name: Martin Schaer
+  role: Solutions Engineer
+  avatar: martin-schaer
+date: 2025-07-17
+stage: Prototype
+format: Source code
+languages:
+  - Rust

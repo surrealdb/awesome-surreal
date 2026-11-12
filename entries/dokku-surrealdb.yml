@@ -1,0 +1,10 @@
+title: Dokku SurrealDB
+url: https://github.com/IgnisDa/dokku-surrealdb
+description: Dokku plugin to deploy SurrealDB.
+section: deployment-and-operations
+author:
+  name: Diptesh
+  github: IgnisDa
+date: 2023-03-13
+stage: Operate
+format: Source code

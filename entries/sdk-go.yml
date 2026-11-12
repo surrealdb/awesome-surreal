@@ -1,0 +1,14 @@
+title: surrealdb.go
+url: https://github.com/surrealdb/surrealdb.go
+section: official-sdks
+position: 4
+sdk:
+  language: Go
+  docs: https://surrealdb.com/docs/reference/golang
+  install: "`go get github.com/surrealdb/surrealdb.go/v2`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+languages:
+  - Go

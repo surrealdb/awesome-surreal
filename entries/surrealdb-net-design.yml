@@ -1,0 +1,10 @@
+title: SurrealDb.Net.Design
+url: https://github.com/NodKane/surrealdb.net.design
+description: Generate C# record models from a database schema at design time.
+section: schema-and-code-generation
+author:
+  name: xNodKane
+  github: NodKane
+date: 2026-09-12
+stage: Build
+format: Source code

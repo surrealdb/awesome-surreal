@@ -1,0 +1,12 @@
+title: surrealdb.swift
+url: https://github.com/surrealdb/surrealdb.swift
+section: official-sdks
+position: 9
+sdk:
+  language: Swift
+  docs: https://surrealdb.com/docs/reference/swift
+  install: Swift Package Manager
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code

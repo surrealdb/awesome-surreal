@@ -1,0 +1,14 @@
+title: Podcasts to Knowledge
+url: https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge
+description: Turn podcast and interview recordings into a knowledge graph with CocoIndex.
+section: projects
+author:
+  name: CocoIndex
+  github: cocoindex-io
+date: 2026-04-08
+stage: Prototype
+format: Source code
+topics:
+  - AI
+languages:
+  - Python

@@ -1,0 +1,15 @@
+title: Surreal-4o
+url: https://github.com/sFritsch09/surreal-4o
+description: Datasets for fine-tuning a model to write SurrealQL.
+section: demos
+author:
+  name: Sebastian Fritsch
+  role: Fullstack Developer
+  avatar: sebastian-fritsch
+date: 2025-06-06
+stage: Build
+format: Source code
+topics:
+  - AI
+languages:
+  - SurrealQL

@@ -1,0 +1,12 @@
+title: Inite Brain
+url: https://github.com/inite-ai/inite-brain-service
+description: "Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP."
+section: projects
+author:
+  name: INITE
+  github: inite-ai
+date: 2026-09-11
+stage: Build
+format: Source code
+topics:
+  - AI

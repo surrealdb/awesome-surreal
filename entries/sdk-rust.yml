@@ -1,0 +1,14 @@
+title: surrealdb
+url: https://crates.io/crates/surrealdb
+section: official-sdks
+position: 3
+sdk:
+  language: Rust
+  docs: https://surrealdb.com/docs/reference/rust
+  install: "`cargo add surrealdb`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+languages:
+  - Rust
