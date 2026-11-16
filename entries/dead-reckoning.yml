@@ -1,0 +1,14 @@
+title: dead-reckoning
+url: https://github.com/atwmarshall/dead-reckoning
+description: Navigate a Python codebase through a knowledge graph and resumable LangGraph agents.
+section: projects
+author:
+  name: Archie Marshall
+  github: atwmarshall
+date: 2026-04-09
+stage: Prototype
+format: Source code
+topics:
+  - AI
+languages:
+  - Python

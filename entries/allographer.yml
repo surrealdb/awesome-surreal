@@ -1,0 +1,11 @@
+title: allographer
+url: https://github.com/itsumura-h/nim-allographer
+description: Query builder and schema builder for Nim with SurrealDB support.
+section: orms-and-query-builders
+author:
+  name: Itsumura H.
+  role: Software Engineer
+  avatar: itsumura-h
+date: 2025-06-06
+stage: Build
+format: Source code

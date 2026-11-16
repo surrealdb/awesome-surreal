@@ -1,0 +1,16 @@
+title: VentStream
+url: https://ventstream.dev/docs/connectors/sinks/surrealdb
+description: Change data capture from PostgreSQL, MySQL, MongoDB, and Neo4j into SurrealDB in real time.
+section: data-movement
+author:
+  name: Bashiru Bukari
+  role: Founder, VentStream
+  avatar: bashiru-bukari
+date: 2026-08-24
+stage: Build
+format: Source code
+topics:
+  - Data management
+  - AI
+languages:
+  - Rust

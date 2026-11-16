@@ -1,0 +1,14 @@
+title: surrealdb.py
+url: https://github.com/surrealdb/surrealdb.py
+section: official-sdks
+position: 2
+sdk:
+  language: Python
+  docs: https://surrealdb.com/docs/reference/python
+  install: "`pip install surrealdb`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+languages:
+  - Python

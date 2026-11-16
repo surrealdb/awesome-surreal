@@ -1,0 +1,12 @@
+title: CRUD using SurrealDB in Rust
+url: https://www.youtube.com/watch?v=3o58KxYOn3E
+section: videos
+group: sdks-and-engines
+author: surrealdb
+date: 2026-01-12
+stage: Learn
+format: Video
+topics:
+  - Data management
+languages:
+  - Rust

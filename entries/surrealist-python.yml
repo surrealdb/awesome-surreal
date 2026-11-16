@@ -1,0 +1,11 @@
+title: surrealist
+url: https://github.com/kotolex/surrealist
+description: Synchronous Python client over HTTP and WebSocket, with live queries and change feeds.
+section: community-client-libraries
+author:
+  name: Kotolex
+  role: Software Engineer
+  avatar: kotolex
+date: 2025-06-06
+stage: Build
+format: Source code

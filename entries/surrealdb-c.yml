@@ -1,0 +1,10 @@
+title: surrealdb.c
+url: https://github.com/surrealdb/surrealdb.c
+section: official-sdks
+sdk:
+  language: C
+  install: Build from source
+author: surrealdb
+date: 2025-06-06
+stage: Build
+format: Source code

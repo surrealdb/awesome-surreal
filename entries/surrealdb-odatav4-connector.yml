@@ -1,0 +1,13 @@
+title: SurrealDB ODataV4 Connector
+url: https://github.com/knackstedt/odatav4
+description: Serve SurrealDB tables through an OData v4 endpoint.
+section: frameworks-and-platforms
+author:
+  name: Andrew G. Knackstedt
+  role: Sr Backend Engineer
+  avatar: andrew-g-knackstedt
+date: 2025-11-18
+stage: Build
+format: Source code
+topics:
+  - Security

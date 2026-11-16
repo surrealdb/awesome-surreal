@@ -1,0 +1,11 @@
+title: surrealdb_extra
+url: https://github.com/jakin010/surrealdb_extra
+description: Query builder and ORM for Rust.
+section: orms-and-query-builders
+author:
+  name: Jakin010
+  role: Software Engineer
+  avatar: jakin010
+date: 2025-06-06
+stage: Build
+format: Source code
