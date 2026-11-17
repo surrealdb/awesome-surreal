@@ -1,0 +1,11 @@
+title: .NET Aspire integration
+url: https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.SurrealDb
+description: Run SurrealDB containers from a .NET Aspire AppHost.
+section: frameworks-and-platforms
+author:
+  name: David Bottiau
+  role: Software Engineer
+  avatar: david-bottiau
+date: 2025-08-01
+stage: Build
+format: Source code

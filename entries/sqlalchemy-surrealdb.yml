@@ -1,0 +1,12 @@
+title: sqlalchemy-surrealdb
+url: https://github.com/noctisynth/sqlalchemy-surrealdb
+description: SQLAlchemy dialect for SurrealDB.
+section: orms-and-query-builders
+author:
+  name: Noctisynth
+  github: noctisynth
+date: 2026-09-12
+stage: Build
+format: Source code
+languages:
+  - Python

@@ -1,0 +1,12 @@
+title: Build a full stack Rust dashboard with Leptos, Actix Web and SurrealDB
+url: https://www.youtube.com/watch?v=DQB-cJPYChg
+section: videos
+group: sdks-and-engines
+author: surrealdb
+date: 2026-01-12
+stage: Learn
+format: Video
+topics:
+  - Data management
+languages:
+  - Rust

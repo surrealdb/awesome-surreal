@@ -1,0 +1,13 @@
+title: surrealdb-client-generator
+url: https://github.com/sebastianwessel/surrealdb-client-generator
+description: Generate Zod schemas and a TypeScript client from a database.
+section: schema-and-code-generation
+author:
+  name: Sebastian Wessel
+  role: Software Engineer
+  avatar: sebastian-wessel
+date: 2025-06-06
+stage: Build
+format: Source code
+languages:
+  - TypeScript

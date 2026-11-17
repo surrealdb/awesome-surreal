@@ -1,0 +1,10 @@
+title: SurrealDB Studio
+url: https://github.com/surrealdb/surrealist
+description: Official query editor, schema designer, and database explorer, formerly called Surrealist.
+section: management-interfaces
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+topics:
+  - Data management

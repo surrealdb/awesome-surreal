@@ -1,0 +1,13 @@
+title: Credit downgrade exposure alerts
+url: https://surrealdb.com/explore/use-case-credit-downgrade
+description: An agent traces exposure through the graph when a counterparty is downgraded.
+section: interactive-demos
+author:
+  name: Martin Schaer
+  role: AI engineer
+  avatar: martin-schaer
+date: 2026-11-03
+stage: Explore
+format: Interactive demo
+topics:
+  - AI

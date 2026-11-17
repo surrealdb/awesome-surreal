@@ -1,0 +1,16 @@
+title: Build an AI RAG agent with LangGraph
+url: https://github.com/colinmcnamara/austin_langchain/blob/main/labs/LangChain_104/104-langgraph-rag-agent.ipynb
+description: Retrieval agent with LangGraph, Ollama, and SurrealDB.
+section: tutorials-and-articles
+author:
+  name: Karim Lalani
+  role: Software Engineer
+  github: lalanikarim
+  avatar: karim-lalani
+date: 2024-02-23
+stage: Learn
+format: Source code
+topics:
+  - AI
+languages:
+  - Python
