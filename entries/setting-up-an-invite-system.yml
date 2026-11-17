@@ -1,0 +1,14 @@
+title: Setting up an invite system
+url: https://mord-blog.vercel.app/articles/surrealdb-invitation-system
+description: Invitation codes with record access.
+section: tutorials-and-articles
+recipe:
+  title: Invitation sign-in
+  url: https://surrealdb.com/docs/explore/tutorials/cookbook/invitation-sign-in
+author:
+  name: Mordechai Hadad
+  role: Software Engineer
+  avatar: mordechai-hadad
+date: 2025-12-05
+stage: Learn
+format: Article

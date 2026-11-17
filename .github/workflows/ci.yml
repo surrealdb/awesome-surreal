@@ -7,6 +7,14 @@ on:
     pull_request:
         branches: [main]
 jobs:
+    Entries:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+            - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2.2.0
+            - run: bun install --frozen-lockfile
+            # Validates every file in entries/ and checks that README.md is the list they produce.
+            - run: bun run check
     Lint:
         runs-on: ubuntu-latest
         steps:

@@ -1,0 +1,11 @@
+title: surreal-ts
+url: https://github.com/horvbalint/surreal-ts
+description: Generate TypeScript types from a SurrealDB schema.
+section: schema-and-code-generation
+author:
+  name: horvbalint
+  role: Software Engineer
+  avatar: horvbalint
+date: 2025-06-23
+stage: Build
+format: Source code

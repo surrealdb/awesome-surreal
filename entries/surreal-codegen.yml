@@ -1,0 +1,11 @@
+title: surreal-codegen
+url: https://github.com/siteforge-io/surreal-codegen
+description: "Generate type-safe TypeScript for your `.surql` queries by checking them against your schema."
+section: schema-and-code-generation
+author:
+  name: Albert Marashi
+  role: Software Engineer
+  avatar: albert-marashi
+date: 2025-06-06
+stage: Build
+format: Source code

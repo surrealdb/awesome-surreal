@@ -1,0 +1,12 @@
+title: surrealdb.net
+url: https://github.com/surrealdb/surrealdb.net
+section: official-sdks
+position: 7
+sdk:
+  language: .NET
+  docs: https://surrealdb.com/docs/reference/dotnet
+  install: "`dotnet add package SurrealDb.Net`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code

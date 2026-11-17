@@ -1,0 +1,13 @@
+title: Surreal Transfer
+url: https://github.com/LucyEgan/surreal-transfer
+description: Command-line tools to export and import SurrealDB data.
+section: data-movement
+author:
+  name: Lucy Egan
+  role: Software Engineer
+  avatar: lucy-egan
+date: 2025-11-17
+stage: Operate
+format: Source code
+topics:
+  - Data management

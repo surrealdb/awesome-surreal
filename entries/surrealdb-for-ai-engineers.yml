@@ -1,0 +1,15 @@
+title: SurrealDB for AI engineers
+url: https://surrealdb.com/learn/ai
+description: Eleven lessons, from calling an LLM API to an agent that retrieves from its own memory.
+section: courses-and-books
+author:
+  name: Martin Schaer
+  role: AI engineer
+  avatar: martin-schaer
+date: 2026-11-03
+stage: Learn
+format: Source code
+topics:
+  - AI
+languages:
+  - SurrealQL

@@ -1,0 +1,13 @@
+title: SurrealDB MCP Server
+url: https://github.com/nsxdavid/surrealdb-mcp-server
+description: Model Context Protocol server that lets AI assistants query and change a SurrealDB database.
+section: ai-and-agents
+author:
+  name: David Whatley
+  role: Software Engineer
+  avatar: david-whatley
+date: 2025-06-06
+stage: Build
+format: Source code
+topics:
+  - AI

@@ -1,0 +1,12 @@
+title: synapse
+url: https://github.com/jawciu/synapse
+description: Turn written reflections into a knowledge graph and answer questions from it.
+section: projects
+author:
+  name: jawciu
+  github: jawciu
+date: 2026-04-08
+stage: Prototype
+format: Source code
+topics:
+  - AI

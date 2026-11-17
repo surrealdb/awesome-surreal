@@ -1,0 +1,16 @@
+title: surform
+url: https://github.com/jquesada2016/surform
+description: "Declarative schema language for SurrealDB that generates the `DEFINE` statements."
+section: schema-and-code-generation
+author:
+  name: Jose Quesada
+  role: Creator of Surform
+  avatar: jose-quesada
+date: 2026-10-26
+stage: Build
+format: Source code
+topics:
+  - Data management
+languages:
+  - Rust
+  - SurrealQL

@@ -1,0 +1,14 @@
+title: open-notebook
+url: https://github.com/lfnovo/open-notebook
+description: Open source alternative to NotebookLM.
+section: projects
+author:
+  name: Luis Novo
+  github: lfnovo
+date: 2026-04-08
+stage: Prototype
+format: Source code
+topics:
+  - AI
+languages:
+  - Python

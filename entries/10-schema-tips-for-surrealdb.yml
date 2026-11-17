@@ -1,0 +1,12 @@
+title: "10 schema tips for SurrealDB"
+url: https://www.youtube.com/watch?v=KNxqL5ZHqFY
+section: videos
+group: data-modelling
+author: surrealdb
+date: 2026-01-12
+stage: Learn
+format: Video
+topics:
+  - Data management
+languages:
+  - SurrealQL

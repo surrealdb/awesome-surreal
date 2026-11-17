@@ -1,0 +1,12 @@
+{
+	"name": "awesome-surreal",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "bun scripts/build.ts",
+		"check": "bun scripts/build.ts --check"
+	},
+	"devDependencies": {
+		"zod": "4.3.6"
+	}
+}

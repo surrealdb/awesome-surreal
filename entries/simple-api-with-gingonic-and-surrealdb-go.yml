@@ -1,0 +1,16 @@
+title: Simple API with Gin and SurrealDB
+url: https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb
+description: REST API in Go.
+section: tutorials-and-articles
+recipe:
+  title: An HTTP API in the database
+  url: https://surrealdb.com/docs/explore/tutorials/cookbook/http-api-in-the-database
+author:
+  name: Atharva Deshpande
+  role: Software Engineer
+  avatar: atharva-deshpande
+date: 2025-06-06
+stage: Learn
+format: Article
+languages:
+  - Go

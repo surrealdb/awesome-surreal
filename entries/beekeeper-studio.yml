@@ -1,0 +1,12 @@
+title: Beekeeper Studio
+url: https://www.beekeeperstudio.io/db/surrealdb-client/
+description: Cross-platform desktop database client with a SurrealQL editor and table browsing and editing, whose SurrealDB support is in alpha and part of its paid tiers.
+section: management-interfaces
+author:
+  name: Hank Hoffmeier
+  github: hankhoffmeier
+date: 2026-10-22
+stage: Build
+format: Source code
+topics:
+  - Data management

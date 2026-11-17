@@ -1,0 +1,14 @@
+title: surrealdb.php
+url: https://github.com/surrealdb/surrealdb.php
+section: official-sdks
+position: 8
+sdk:
+  language: PHP
+  docs: https://surrealdb.com/docs/reference/php
+  install: "`composer require surrealdb/surrealdb.php`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code
+languages:
+  - PHP
