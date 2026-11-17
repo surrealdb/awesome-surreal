@@ -1,0 +1,12 @@
+title: surrealdb.kotlin
+url: https://github.com/surrealdb/surrealdb.kotlin
+section: official-sdks
+position: 6
+sdk:
+  language: Kotlin
+  docs: https://surrealdb.com/docs/reference/kotlin
+  install: "`com.surrealdb:kotlin`"
+author: surrealdb
+date: 2026-11-12
+stage: Build
+format: Source code

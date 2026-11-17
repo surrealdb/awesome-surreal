@@ -1,0 +1,13 @@
+title: How a luxury fashion retailer scaled personalised recommendations
+url: https://www.youtube.com/watch?v=yLw9MvNfuY8
+description: Customer context, product variants, and embeddings in one database.
+section: talks-and-presentations
+recipe:
+  title: Context for a recommendation prompt
+  url: https://surrealdb.com/docs/explore/tutorials/cookbook/recommendation-context
+author: surrealdb
+date: 2026-01-12
+stage: Explore
+format: Video
+topics:
+  - AI

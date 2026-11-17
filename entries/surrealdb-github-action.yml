@@ -1,0 +1,8 @@
+title: SurrealDB GitHub Action
+url: https://github.com/marketplace/actions/surrealdb-in-github-action
+description: Official action to start SurrealDB in a CI workflow.
+section: deployment-and-operations
+author: surrealdb
+date: 2025-06-06
+stage: Build
+format: Source code

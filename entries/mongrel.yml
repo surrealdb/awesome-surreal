@@ -1,0 +1,11 @@
+title: Mongrel
+url: https://www.visorcraft.com/mongrel
+description: Desktop workbench for SurrealDB 3.2 and later, with a SurrealQL editor, document and graph browsing, schema tools, and native archives.
+section: management-interfaces
+author:
+  name: Visorcraft
+date: 2026-09-11
+stage: Build
+format: Source code
+topics:
+  - Data management

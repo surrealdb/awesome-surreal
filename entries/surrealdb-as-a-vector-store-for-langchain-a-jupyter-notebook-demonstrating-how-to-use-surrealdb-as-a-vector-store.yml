@@ -1,0 +1,15 @@
+title: SurrealDB vector store notebook
+url: https://github.com/lalanikarim/notebooks/blob/main/SurrealDB-Langchain.ipynb
+description: Jupyter notebook using SurrealDB as a LangChain vector store.
+section: demos
+author:
+  name: Karim Lalani
+  role: Software Engineer
+  avatar: karim-lalani
+date: 2025-06-06
+stage: Prototype
+format: Source code
+topics:
+  - AI
+languages:
+  - Python

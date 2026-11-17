@@ -1,0 +1,14 @@
+title: How to use SurrealDB with Fresh and Deno
+url: https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/
+description: A Fresh application with a SurrealDB back end.
+section: tutorials-and-articles
+recipe:
+  title: An HTTP API in the database
+  url: https://surrealdb.com/docs/explore/tutorials/cookbook/http-api-in-the-database
+author:
+  name: Rajdeep Singh
+  role: Software Engineer
+  avatar: rajdeep-singh
+date: 2025-06-06
+stage: Learn
+format: Article
