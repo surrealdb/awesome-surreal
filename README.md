@@ -139,6 +139,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Extensions
 
+- [Surreal S3](https://github.com/yuunalein/surreal-s3) - Surrealism extension for SurrealDB 3.2 and 3.3 that adds S3 functions to SurrealQL, including pre-signed URLs and multipart uploads.
 - [try_cast](https://git.gay/buj/surreal-try-cast) - Surrealism extension that adds `mod::try_*` functions for checked type casts.
 
 ## Example applications
