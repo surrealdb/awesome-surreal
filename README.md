@@ -164,6 +164,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 ### Interactive demos
 
 - [Agent Memory for financial services](https://surrealdb.com/explore/agent-memory-for-financial-services) - Agent Memory in a financial services setting, showing scopes and how facts change over time.
+- [Agent Memory use case](https://surrealdb.com/explore/agent-memory-use-case) - Shared memory for every agent and every person in your organisation, cited, kept current, and isolated with scopes, grants and lenses.
 - [Company brain](https://surrealdb.com/explore/company-brain) - A company knowledge base on SurrealDB and Agent Memory that agents and people query together.
 - [Credit downgrade exposure alerts](https://surrealdb.com/explore/use-case-credit-downgrade) - An agent traces exposure through the graph when a counterparty is downgraded.
 - [Financial services ontology](https://surrealdb.com/explore/financial-services-ontology) - Eight source systems mapped into one graph.
