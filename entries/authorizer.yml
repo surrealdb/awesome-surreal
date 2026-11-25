@@ -1,0 +1,16 @@
+title: Authorizer
+url: https://github.com/authorizerdev/authorizer
+description: Open-source, self-hosted authentication server that can keep its data in SurrealDB and sign users in for SurrealDB record access.
+section: authentication
+author:
+  name: Lakhan Samani
+  github: lakhansamani
+date: 2026-11-25
+stage: Build
+format: Source code
+topics:
+  - Security
+languages:
+  - Go
+  - TypeScript
+  - SurrealQL

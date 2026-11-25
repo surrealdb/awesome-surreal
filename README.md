@@ -130,6 +130,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ### Authentication
 
+- [Authorizer](https://github.com/authorizerdev/authorizer) - Open-source, self-hosted authentication server that can keep its data in SurrealDB and sign users in for SurrealDB record access.
 - [surreal-better-auth](https://github.com/oskar-gmerek/surreal-better-auth) - SurrealDB adapter for Better Auth.
 
 ### Frameworks and platforms
