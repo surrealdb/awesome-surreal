@@ -1,0 +1,15 @@
+title: Use Authorizer as the authentication provider for SurrealDB
+url: https://blog.authorizer.dev/use-authorizer-as-the-authentication-provider-for-surrealdb
+description: Sign users in with a self-hosted Authorizer and query SurrealDB directly with their token, with per-user and role-based table permissions.
+section: tutorials-and-articles
+author:
+  name: Lakhan Samani
+  github: lakhansamani
+date: 2026-11-25
+stage: Learn
+format: Article
+topics:
+  - Security
+languages:
+  - SurrealQL
+  - TypeScript

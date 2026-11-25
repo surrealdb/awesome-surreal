@@ -200,6 +200,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 - [Multi-tenant RBAC with SurrealDB](https://dev.to/sebastian_wessel/series/24535) - Four-part series on tenants, roles, and permissions as a graph. By Sebastian Wessel. **Recipe:** [Multi-tenant role-based access](https://surrealdb.com/docs/explore/tutorials/cookbook/multi-tenant-rbac).
 - [Setting up an invite system](https://mord-blog.vercel.app/articles/surrealdb-invitation-system) - Invitation codes with record access. By Mordechai Hadad. **Recipe:** [Invitation sign-in](https://surrealdb.com/docs/explore/tutorials/cookbook/invitation-sign-in).
 - [Simple API with Gin and SurrealDB](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - REST API in Go. By Atharva Deshpande. **Recipe:** [An HTTP API in the database](https://surrealdb.com/docs/explore/tutorials/cookbook/http-api-in-the-database).
+- [Use Authorizer as the authentication provider for SurrealDB](https://blog.authorizer.dev/use-authorizer-as-the-authentication-provider-for-surrealdb) - Sign users in with a self-hosted Authorizer and query SurrealDB directly with their token, with per-user and role-based table permissions. By Lakhan Samani.
 
 ### Videos
 
