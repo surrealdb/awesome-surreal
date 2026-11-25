@@ -78,6 +78,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ### Management interfaces
 
+- [Beekeeper Studio](https://www.beekeeperstudio.io/db/surrealdb-client/) - Cross-platform desktop database client with a SurrealQL editor and table browsing and editing, whose SurrealDB support is in alpha and part of its paid tiers.
 - [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench for SurrealDB 3.2 and later, with a SurrealQL editor, document and graph browsing, schema tools, and native archives.
 - [SurrealDB Studio](https://github.com/surrealdb/surrealist) - Official query editor, schema designer, and database explorer, formerly called Surrealist.
 
