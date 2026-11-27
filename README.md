@@ -177,6 +177,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 - [Inite Brain](https://github.com/inite-ai/inite-brain-service) - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
 - [open-notebook](https://github.com/lfnovo/open-notebook) - Open source alternative to NotebookLM.
 - [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
+- [surreal-fs](https://jsr.io/@hviana/surreal-fs) - File storage for Deno and JavaScript that streams files of any size into SurrealDB as 64 KB chunks, with rate limiting and storage accounting.
 - [synapse](https://github.com/jawciu/synapse) - Turn written reflections into a knowledge graph and answer questions from it.
 - [taro](https://github.com/j-d0g/taro) - Agentic search harness: a LangGraph ReAct agent with vector, BM25, graph, and hybrid search tools.
 

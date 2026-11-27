@@ -1,0 +1,14 @@
+title: surreal-fs
+url: https://jsr.io/@hviana/surreal-fs
+description: File storage for Deno and JavaScript that streams files of any size into SurrealDB as 64 KB chunks, with rate limiting and storage accounting.
+section: projects
+author:
+  name: Henrique Emanoel Viana
+  github: hviana
+date: 2026-04-14
+stage: Build
+format: Source code
+topics:
+  - Data management
+languages:
+  - TypeScript
